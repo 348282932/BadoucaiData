@@ -1,0 +1,27 @@
+﻿<nodes type="zhaopin">
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="国企" result-key="A" result-value="国企"></node>
+	<node source-key="5" source-value="民营" result-key="B" result-value="民营"></node>
+	<node source-key="4" source-value="合资" result-key="C" result-value="合资"></node>
+	<node source-key="2" source-value="外商独资" result-key="D" result-value="外商独资"></node>
+	<node source-key="8" source-value="股份制企业" result-key="E" result-value="股份制企业"></node>
+	<node source-key="9" source-value="上市公司" result-key="F" result-value="上市公司"></node>
+	<node source-key="3" source-value="代表处" result-key="G" result-value="代表处"></node>
+	<node source-key="6" source-value="国家机关" result-key="H" result-value="国家机关"></node>
+	<node source-key="10" source-value="事业单位" result-key="I" result-value="事业单位"></node>
+	<node source-key="0" source-value="其它" result-key="J" result-value="其它"></node>
+</nodes>
+<nodes type="51job">
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="01" source-value="外资（欧美）" result-key="D" result-value="外商独资"></node>
+	<node source-key="02" source-value="外资（非欧美）" result-key="D" result-value="外商独资"></node>
+	<node source-key="03" source-value="合资" result-key="C" result-value="合资"></node>
+	<node source-key="05" source-value="国企" result-key="A" result-value="国企"></node>
+	<node source-key="06" source-value="民营公司" result-key="B" result-value="民营"></node>
+	<node source-key="13" source-value="上市公司" result-key="F" result-value="上市公司"></node>
+	<node source-key="14" source-value="创业公司" result-key="J" result-value="其它"></node>
+	<node source-key="07" source-value="外企代表处" result-key="G" result-value="代表处"></node>
+	<node source-key="09" source-value="政府机关" result-key="H" result-value="国家机关"></node>
+	<node source-key="10" source-value="事业单位" result-key="I" result-value="事业单位"></node>
+	<node source-key="11" source-value="非营利机构" result-key="J" result-value="其它"></node>
+</nodes>

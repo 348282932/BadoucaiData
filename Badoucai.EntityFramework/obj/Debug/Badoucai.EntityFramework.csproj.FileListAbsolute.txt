@@ -1,0 +1,14 @@
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\Badoucai.EntityFramework.dll.config
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\Badoucai.EntityFramework.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\Badoucai.EntityFramework.pdb
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\EntityFramework.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\MySql.Data.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\EntityFramework.xml
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\obj\Debug\Badoucai.EntityFramework.csprojResolveAssemblyReference.cache
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\obj\Debug\Badoucai.EntityFramework.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.EntityFramework\obj\Debug\Badoucai.EntityFramework.pdb

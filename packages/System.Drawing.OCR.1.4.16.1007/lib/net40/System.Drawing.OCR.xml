@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>System.Drawing.OCR</name>
+    </assembly>
+    <members>
+        <member name="T:System.Drawing.OCR.BitmapMatch`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapMatch`1.Position">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapMatch`1.Template">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Drawing.OCR.BitmapMatch`1.#ctor(System.Drawing.Point,System.Drawing.OCR.BitmapTemplate{`0})">
+            <summary>
+            
+            </summary>
+            <param name="position"></param>
+            <param name="template"></param>
+        </member>
+        <member name="T:System.Drawing.OCR.BitmapRecognizeCallback`1">
+            <summary>
+            图像识别回调
+            </summary>
+            <param name="bitmap">识别的图像</param>
+            <param name="matches">已识别的图像模板</param>
+            <param name="success">当前识别点是否匹配</param>
+            <param name="point">当前识别点</param>
+            <returns></returns>
+        </member>
+        <member name="T:System.Drawing.OCR.BitmapExtension">
+            <summary>
+            图像识别
+            </summary>
+        </member>
+        <member name="M:System.Drawing.OCR.BitmapExtension.SplitByWhitePoints(System.Drawing.Bitmap,System.Byte)">
+            <summary>
+            通过空白列切分图像
+            </summary>
+            <param name="bitmap"></param>
+            <param name="threshold"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Drawing.OCR.BitmapExtension.SplitByContinuePoints(System.Drawing.Bitmap,System.Byte,System.Boolean)">
+            <summary>
+            通过关联点切分图像
+            </summary>
+            <param name="bitmap"></param>
+            <param name="threshold"></param>
+            <param name="extended"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Drawing.OCR.BitmapExtension.Recognize``1(System.Drawing.Bitmap,System.Byte,System.Collections.Generic.List{System.Drawing.OCR.BitmapTemplate{``0}},System.Drawing.OCR.BitmapRecognizeCallback{``0})">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="bitmap"></param>
+            <param name="threshold"></param>
+            <param name="templates"></param>
+            <param name="callback"></param>
+            <returns></returns>
+        </member>
+        <member name="T:System.Drawing.OCR.BitmapTemplate`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapTemplate`1.Bitmap">
+            <summary>
+            模板图像
+            </summary>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapTemplate`1.Width">
+            <summary>
+            模板图像宽度
+            </summary>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapTemplate`1.Height">
+            <summary>
+            模板图像高度
+            </summary>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapTemplate`1.Value">
+            <summary>
+            模板图像对应值
+            </summary>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapTemplate`1.Points">
+            <summary>
+            模板图像有效点
+            </summary>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapTemplate`1.Accuracy">
+            <summary>
+            模版精度 (0.0 ~ 1.0)
+            </summary>
+        </member>
+        <member name="P:System.Drawing.OCR.BitmapTemplate`1.MissablePointsCount">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Drawing.OCR.BitmapTemplate`1.#ctor(System.Drawing.Bitmap,`0,System.Double,System.Collections.Generic.List{System.Drawing.Point})">
+            <summary>
+            
+            </summary>
+            <param name="bitmap"></param>
+            <param name="value"></param>
+            <param name="accuracy"></param>
+            <param name="points"></param>
+        </member>
+        <member name="M:System.Drawing.OCR.BitmapTemplate`1.Create(System.Drawing.Bitmap,`0,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="bitmap">二值化的位图</param>
+            <param name="value"></param>
+            <param name="accuracy"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<nodes>
+  <node source-key="" source-pkey="" source-value="" result-key="0x0" result-value="默认" />
+  <node source-key="160600" source-pkey="10100" source-value="网络游戏" result-key="0x18" result-value="网络游戏" />
+  <node source-key="10200" source-pkey="0" source-value="金融业" result-key="0x20" result-value="金融业" />
+  <node source-key="180100" source-pkey="10200" source-value="保险" result-key="0x22" result-value="保险" />
+  <node source-key="210600" source-pkey="10500" source-value="印刷/包装/造纸" result-key="0x75" result-value="印刷 | 包装 | 造纸" />
+  <node source-key="300000" source-pkey="10500" source-value="航空/航天研究与制造" result-key="0x79" result-value="航空 | 航天研究与制造" />
+  <node source-key="121400" source-pkey="10000" source-value="医疗/护理/美容/保健/卫生服务" result-key="0x91" result-value="医疗 | 护理 | 美容 | 保健 | 卫生服务" />
+  <node source-key="200600" source-pkey="10000" source-value="酒店/餐饮" result-key="0x92" result-value="酒店 | 餐饮" />
+  <node source-key="200800" source-pkey="10000" source-value="旅游/度假" result-key="0x93" result-value="旅游 | 度假" />
+  <node source-key="210300" source-pkey="11300" source-value="媒体/出版/影视/文化传播" result-key="0xa1" result-value="媒体 | 出版 | 影视 | 文化传播" />
+  <node source-key="200700" source-pkey="11300" source-value="娱乐/体育/休闲" result-key="0xa2" result-value="娱乐 | 体育 | 休闲" />
+  <node source-key="140000" source-pkey="10800" source-value="房地产/建筑/建材/工程" result-key="0x31" result-value="房地产 | 建筑 | 建材 | 工程" />
+  <node source-key="140100" source-pkey="10800" source-value="家居/室内设计/装饰装潢" result-key="0x32" result-value="家居 | 室内设计 | 装饰装潢" />
+  <node source-key="140200" source-pkey="10800" source-value="物业管理/商业中心" result-key="0x33" result-value="物业管理 | 商业中心" />
+  <node source-key="200302" source-pkey="10900" source-value="广告/会展/公关" result-key="0x42" result-value="广告 | 会展 | 公关" />
+  <node source-key="201300" source-pkey="10900" source-value="检验/检测/认证" result-key="0x44" result-value="检验 | 检测 | 认证" />
+  <node source-key="170500" source-pkey="10300" source-value="贸易/进出口" result-key="0x53" result-value="贸易 | 进出口" />
+  <node source-key="170000" source-pkey="10300" source-value="零售/批发" result-key="0x54" result-value="零售 | 批发" />
+  <node source-key="201100" source-pkey="10400" source-value="教育/培训/院校" result-key="0x61" result-value="教育 | 培训 | 院校" />
+  <node source-key="130000" source-pkey="11600" source-value="能源/矿产/采掘/冶炼" result-key="0xb1" result-value="能源 | 矿产 | 采掘 | 冶炼" />
+  <node source-key="120500" source-pkey="11600" source-value="石油/石化/化工" result-key="0xb2" result-value="石油 | 石化 | 化工" />
+  <node source-key="130100" source-pkey="11600" source-value="电气/电力/水利" result-key="0xb3" result-value="电气 | 电力 | 水利" />
+  <node source-key="200100" source-pkey="11100" source-value="政府/公共事业/非盈利机构" result-key="0xc1" result-value="政府 | 公共事业 | 非盈利机构" />
+  <node source-key="300300" source-pkey="10900" source-value="外包服务" result-key="0x45" result-value="外包服务" />
+  <node source-key="300700" source-pkey="10300" source-value="租赁服务" result-key="0x55" result-value="租赁服务" />
+  <node source-key="121200" source-pkey="10500" source-value="仪器仪表及工业自动化" result-key="0x74" result-value="仪器仪表及工业自动化" />
+  <node source-key="120700" source-pkey="10500" source-value="办公用品及设备" result-key="0x76" result-value="办公用品及设备" />
+  <node source-key="160400" source-pkey="10100" source-value="计算机软件" result-key="0x12" result-value="计算机软件" />
+  <node source-key="160200" source-pkey="10100" source-value="计算机硬件" result-key="0x15" result-value="计算机硬件" />
+  <node source-key="10000" source-pkey="0" source-value="服务业" result-key="0x90" result-value="服务业" />
+  <node source-key="201200" source-pkey="11600" source-value="环保" result-key="0xb4" result-value="环保" />
+  <node source-key="120600" source-pkey="11100" source-value="学术/科研" result-key="0xc2" result-value="学术 | 科研" />
+  <node source-key="150000" source-pkey="11500" source-value="交通/运输" result-key="0x81" result-value="交通 | 运输" />
+  <node source-key="301100" source-pkey="11500" source-value="物流/仓储" result-key="0x82" result-value="物流 | 仓储" />
+  <node source-key="100100" source-pkey="11400" source-value="跨领域经营" result-key="0xd3" result-value="跨领域经营" />
+  <node source-key="160000" source-pkey="10100" source-value="IT服务(系统/数据/维护)" result-key="0x13" result-value="信息服务（系统 | 数据 | 维护）" />
+  <node source-key="160500" source-pkey="10100" source-value="电子技术/半导体/集成电路" result-key="0x14" result-value="电子技术 | 半导体 | 集成电路" />
+  <node source-key="300100" source-pkey="10100" source-value="通信/电信/网络设备" result-key="0x16" result-value="通信 | 电信 | 网络设备" />
+  <node source-key="121300" source-pkey="10500" source-value="医药/生物工程" result-key="0x77" result-value="医药 | 生物工程" />
+  <node source-key="121500" source-pkey="10500" source-value="医疗设备/器械" result-key="0x78" result-value="医疗设备 | 器械" />
+  <node source-key="200300" source-pkey="10900" source-value="专业服务/咨询(财会/法律/人力资源等)" result-key="0x41" result-value="专业服务 | 咨询（财会 | 法律 | 人力资源）" />
+  <node source-key="120400" source-pkey="10300" source-value="快速消费品（食品/饮料/烟酒/日化）" result-key="0x51" result-value="快速消费品（食品 | 饮料 | 烟酒 | 日化）" />
+  <node source-key="300500" source-pkey="10200" source-value="银行" result-key="0x23" result-value="银行" />
+  <node source-key="10900" source-pkey="0" source-value="商业服务" result-key="0x40" result-value="商业服务" />
+  <node source-key="120200" source-pkey="10300" source-value="耐用消费品（服饰/纺织/皮革/家具/家电）" result-key="0x52" result-value="耐用消费品（服饰 | 纺织 | 皮革 | 家具 | 家电）" />
+  <node source-key="121100" source-pkey="10500" source-value="加工制造（原料加工/模具）" result-key="0x73" result-value="加工制造（原料加工 | 模具）" />
+  <node source-key="160100" source-pkey="10100" source-value="通信/电信运营、增值服务" result-key="0x17" result-value="通信 | 电信运营、增值服务" />
+  <node source-key="180000" source-pkey="10200" source-value="基金/证券/期货/投资" result-key="0x21" result-value="基金 | 证券 | 期货 | 投资" />
+  <node source-key="300900" source-pkey="10200" source-value="信托/担保/拍卖/典当" result-key="0x24" result-value="信托 | 担保 | 拍卖 | 典当" />
+  <node source-key="201400" source-pkey="10900" source-value="中介服务" result-key="0x43" result-value="中介服务" />
+  <node source-key="210500" source-pkey="10100" source-value="互联网/电子商务" result-key="0x11" result-value="互联网 | 电子商务" />
+  <node source-key="120800" source-pkey="10400" source-value="礼品/玩具/工艺美术/收藏品/奢侈品" result-key="0x62" result-value="礼品 | 玩具 | 工艺美术 | 收藏品 | 奢侈品" />
+  <node source-key="10300" source-pkey="0" source-value="贸易|批发|零售|租赁业" result-key="0x50" result-value="贸易 | 批发 | 零售 | 租赁业" />
+  <node source-key="121000" source-pkey="10500" source-value="汽车/摩托车" result-key="0x71" result-value="汽车 | 摩托车" />
+  <node source-key="10400" source-pkey="0" source-value="文体教育|工艺美术" result-key="0x60" result-value="文体教育 | 工艺美术" />
+  <node source-key="10500" source-pkey="0" source-value="生产|加工|制造" result-key="0x70" result-value="生产 | 加工 | 制造" />
+  <node source-key="129900" source-pkey="10500" source-value="大型设备/机电设备/重工业" result-key="0x72" result-value="大型设备 | 机电设备 | 重工业" />
+  <node source-key="11500" source-pkey="0" source-value="交通|运输|物流|仓储" result-key="0x80" result-value="交通 | 运输 | 物流 | 仓储" />
+  <node source-key="10100" source-pkey="0" source-value="IT|通信|电子|互联网" result-key="0x10" result-value="信息 | 通信 | 电子 | 互联网" />
+  <node source-key="10800" source-pkey="0" source-value="房地产|建筑业" result-key="0x30" result-value="房地产 | 建筑业" />
+  <node source-key="11300" source-pkey="0" source-value="文化|传媒|娱乐|体育" result-key="0xa0" result-value="文化 | 传媒 | 娱乐 | 体育" />
+  <node source-key="11600" source-pkey="0" source-value="能源|矿产|环保" result-key="0xb0" result-value="能源 | 矿产 | 环保" />
+  <node source-key="11100" source-pkey="0" source-value="政府|非盈利机构" result-key="0xc0" result-value="政府 | 非盈利机构" />
+  <node source-key="11400" source-pkey="0" source-value="农|林|牧|渔|其他" result-key="0xd0" result-value="农 | 林 | 牧 | 渔 | 其他" />
+  <node source-key="100000" source-pkey="11400" source-value="农/林/牧/渔" result-key="0xd1" result-value="农 | 林 | 牧 | 渔" />
+  <node source-key="990000" source-pkey="11400" source-value="其他" result-key="0xd2" result-value="其他" />
+</nodes>

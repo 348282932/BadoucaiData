@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="1153" PostSharpLinesOfCode="0" EnhancedTypesCount="2" SchemaVersion="1" PostSharpVersion="5.1.7.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[Badoucai.Library]Badoucai.Library.AutoRetryAttribute" Id="ba355eeb0c3ebff2">
+      <Target />
+    </Instance>
+    <Instance Declaration="#3=T:[Badoucai.Library]Badoucai.Library.LoggableAttribute" Id="ba355eeb9b355fba">
+      <Target />
+    </Instance>
+  </Class>
+</Symbols>

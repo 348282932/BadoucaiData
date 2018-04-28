@@ -1,0 +1,5 @@
+﻿<nodes>
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="男" result-key="M" result-value="男"></node>
+	<node source-key="2" source-value="女" result-key="F" result-value="女"></node>
+</nodes>

@@ -1,0 +1,9 @@
+﻿<nodes>
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="20人以下" result-key="A" result-value="少于20人"></node>
+	<node source-key="2" source-value="20-99人" result-key="B" result-value="20-99人"></node>
+	<node source-key="3" source-value="100-499人" result-key="C" result-value="100-499人"></node>
+	<node source-key="4" source-value="500-999人" result-key="D" result-value="500-999人"></node>
+	<node source-key="5" source-value="1000-9999人" result-key="E" result-value="1000-9999人"></node>
+	<node source-key="6" source-value="10000人以上" result-key="F" result-value="10000人以上"></node>
+</nodes>

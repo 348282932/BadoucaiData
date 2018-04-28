@@ -1,0 +1,8 @@
+﻿<nodes>
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="随时" result-key="A" result-value="随时"></node>
+	<node source-key="3" source-value="1个月内" result-key="C" result-value="一个月内"></node>
+	<node source-key="4" source-value="3个月内" result-key="D" result-value="三个月内"></node>
+	<node source-key="5" source-value="待定" result-key="*" result-value="待定"></node>
+	<node source-key="2" source-value="一周内" result-key="A" result-value="随时"></node>
+</nodes>

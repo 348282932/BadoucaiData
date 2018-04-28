@@ -1,0 +1,8 @@
+﻿<nodes>
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="我目前处于离职状态，可立即上岗" result-key="A" result-value="随时"></node>
+	<node source-key="2" source-value="我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）" result-key="C" result-value="一个月内"></node>
+	<node source-key="3" source-value="我对现有工作还算满意，如有更好的工作机会，我也可以考虑。（到岗时间另议）" result-key="D" result-value="三个月内"></node>
+	<node source-key="4" source-value="目前暂无跳槽打算" result-key="*" result-value="待定"></node>
+	<node source-key="5" source-value="应届毕业生" result-key="A" result-value="随时"></node>
+</nodes>

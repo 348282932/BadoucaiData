@@ -1,0 +1,26 @@
+﻿<nodes type="zhaopin">
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="初中" result-key="A" result-value="初中"></node>
+	<node source-key="13" source-value="中技" result-key="B" result-value="中技"></node>
+	<node source-key="7" source-value="高中" result-key="C" result-value="高中"></node>
+	<node source-key="12" source-value="中专" result-key="D" result-value="中专"></node>
+	<node source-key="5" source-value="大专" result-key="E" result-value="大专"></node>
+	<node source-key="4" source-value="本科" result-key="F" result-value="本科"></node>
+	<node source-key="3" source-value="硕士" result-key="G" result-value="硕士"></node>
+	<node source-key="10" source-value="MBA" result-key="H" result-value="MBA"></node>
+	<node source-key="11" source-value="EMBA" result-key="I" result-value="EMBA"></node>
+	<node source-key="2" source-value="博士" result-key="J" result-value="博士"></node>
+	<node source-key="8" source-value="其他" result-key="K" result-value="其他"></node>
+</nodes>
+<nodes type="51job">
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="初中及以下" result-key="A" result-value="初中"></node>
+	<node source-key="13" source-value="中技" result-key="B" result-value="中技"></node>
+	<node source-key="7" source-value="高中" result-key="C" result-value="高中"></node>
+	<node source-key="12" source-value="中专" result-key="D" result-value="中专"></node>
+	<node source-key="5" source-value="大专" result-key="E" result-value="大专"></node>
+	<node source-key="4" source-value="本科" result-key="F" result-value="本科"></node>
+	<node source-key="3" source-value="硕士" result-key="G" result-value="硕士"></node>
+	<node source-key="10" source-value="MBA" result-key="H" result-value="MBA"></node>
+	<node source-key="2" source-value="博士" result-key="J" result-value="博士"></node>
+</nodes>

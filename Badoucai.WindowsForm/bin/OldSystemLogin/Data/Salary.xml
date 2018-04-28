@@ -1,0 +1,16 @@
+﻿<nodes>
+	<node source-key = "0000001000" source-value = "1000元/月以下" result-key = "0,1000" result-value = "0,1000"></node>
+	<node source-key = "0100002000" source-value = "1000-2000元/月" result-key = "1000,2000" result-value = "1000,2000"></node>
+	<node source-key = "0200104000" source-value = "2001-4000元/月" result-key = "2001,4000" result-value = "2001,4000"></node>
+	<node source-key = "0400106000" source-value = "4001-6000元/月" result-key = "4001,6000" result-value = "4001,6000"></node>
+	<node source-key = "0600108000" source-value = "6001-8000元/月" result-key = "6001,8000" result-value = "6001,8000"></node>
+	<node source-key = "0800110000" source-value = "8001-10000元/月" result-key = "8001,10000" result-value = "8001,10000"></node>
+	<node source-key = "1000115000" source-value = "10001-15000元/月" result-key = "10001,15000" result-value = "10001,15000"></node>
+	<node source-key = "1500125000" source-value = "15000-25000元/月" result-key = "15000,25000" result-value = "15000,25000"></node>
+	<node source-key = "2500199999" source-value = "25000-35000元/月" result-key = "25000,35000" result-value = "25000,35000"></node>
+	<node source-key = "3500150000" source-value = "35000-50000元/月" result-key = "35000,50000" result-value = "35000,50000"></node>
+	<node source-key = "5000170000" source-value = "50000-70000元/月" result-key = "50000,70000" result-value = "50000,70000"></node>
+	<node source-key = "70001100000" source-value = "70000-100000元/月" result-key = "70000,100000" result-value = "70000,100000"></node>
+	<node source-key = "100001150000" source-value = "100000元/月以上" result-key = "100000,0" result-value = "100000,0"></node>
+	<node source-key = "0000000000" source-value = "面议" result-key = "0,0" result-value = "-1,-1"></node>
+</nodes>

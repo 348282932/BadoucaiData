@@ -1,0 +1,9 @@
+﻿<nodes>
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="0" source-value="默认" result-key="*" result-value="默认"></node>
+	<node source-key="1" source-value="未婚" result-key="U" result-value="未婚"></node>
+	<node source-key="2" source-value="已婚" result-key="M" result-value="已婚"></node>
+	<node source-key="3" source-value="离异" result-key="D" result-value="离异"></node>
+	<node source-key="4" source-value="保密" result-key="*" result-value="默认"></node>
+	<node source-key="5" source-value="" result-key="*" result-value="默认"></node>
+</nodes>

@@ -1,0 +1,1296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<nodes>
+  <node source-key="2400" source-pkey="0" source-value="计算机硬件" result-key="0x4200" result-value="硬件开发" />
+  <node source-key="2401" source-pkey="2400" source-value="高级硬件工程师" result-key="0x4201" result-value="高级硬件工程师" />
+  <node source-key="2402" source-pkey="2400" source-value="硬件工程师" result-key="0x4202" result-value="硬件工程师" />
+  <node source-key="2919" source-pkey="2900" source-value="嵌入式硬件开发(主板机…)" result-key="0x4203" result-value="嵌入式硬件开发" />
+  <node source-key="2403" source-pkey="2400" source-value="其他" result-key="0x4204" result-value="其他" />
+  <node source-key="100" source-pkey="0" source-value="计算机软件" result-key="0x4100" result-value="软件 | 互联网开发 | 系统集成" />
+  <node source-key="106" source-pkey="100" source-value="高级软件工程师" result-key="0x4101" result-value="高级软件工程师" />
+  <node source-key="107" source-pkey="100" source-value="软件工程师" result-key="0x4102" result-value="软件工程师" />
+  <node source-key="144" source-pkey="100" source-value="软件UI设计师/工程师" result-key="0x410f" result-value="用户界面（UI）设计" />
+  <node source-key="148" source-pkey="100" source-value="算法工程师" result-key="0x4116" result-value="算法工程师" />
+  <node source-key="145" source-pkey="100" source-value="仿真应用工程师" result-key="0x4117" result-value="仿真应用工程师" />
+  <node source-key="146" source-pkey="100" source-value="ERP实施顾问" result-key="0x450c" result-value="ERP实施顾问" />
+  <node source-key="117" source-pkey="100" source-value="ERP技术开发" result-key="0x4108" result-value="ERP技术 | 开发应用" />
+  <node source-key="147" source-pkey="100" source-value="需求工程师" result-key="0x4104" result-value="需求工程师" />
+  <node source-key="137" source-pkey="100" source-value="系统集成工程师" result-key="0x4115" result-value="系统集成工程师" />
+  <node source-key="123" source-pkey="100" source-value="系统分析员" result-key="0x4106" result-value="系统分析员" />
+  <node source-key="127" source-pkey="100" source-value="系统工程师" result-key="0x4505" result-value="系统工程师" />
+  <node source-key="143" source-pkey="100" source-value="系统架构设计师" result-key="0x4105" result-value="系统架构设计师" />
+  <node source-key="108" source-pkey="100" source-value="数据库工程师/管理员" result-key="0x4107" result-value="数据库开发工程师" />
+  <node source-key="141" source-pkey="100" source-value="计算机辅助设计工程师" result-key="0x4118" result-value="计算机辅助设计师" />
+  <node source-key="142" source-pkey="100" source-value="其他" result-key="0x4120" result-value="其他" />
+  <node source-key="2500" source-pkey="0" source-value="互联网/电子商务/网游" result-key="0x4300" result-value="互联网产品 | 运营管理" />
+  <node source-key="2501" source-pkey="2500" source-value="互联网软件开发工程师" result-key="0x4109" result-value="互联网软件工程师" />
+  <node source-key="2514" source-pkey="2500" source-value="语音/视频开发工程师" result-key="0x410e" result-value="语音 | 视频 | 图形开发" />
+  <node source-key="2502" source-pkey="2500" source-value="多媒体/游戏开发工程师" result-key="0x4112" result-value="游戏设计 | 开发" />
+  <node source-key="2537" source-pkey="2500" source-value="手机应用开发工程师" result-key="0x410c" result-value="移动互联网开发" />
+  <node source-key="2530" source-pkey="2500" source-value="网站营运总监" result-key="0x430a" result-value="运营总监" />
+  <node source-key="2503" source-pkey="2500" source-value="网站营运经理/主管" result-key="0x430b" result-value="网站运营总监 | 经理" />
+  <node source-key="2516" source-pkey="2500" source-value="网站营运专员" result-key="0x4306" result-value="网络运营专员 | 助理" />
+  <node source-key="2531" source-pkey="2500" source-value="产品总监" result-key="0x4309" result-value="产品总监" />
+  <node source-key="2525" source-pkey="2500" source-value="产品经理/主管" result-key="0x150a" result-value="产品经理" />
+  <node source-key="2526" source-pkey="2500" source-value="产品专员" result-key="0x150c" result-value="产品专员 | 助理" />
+  <node source-key="2524" source-pkey="2500" source-value="SEO搜索引擎优化" result-key="0x4308" result-value="SEO | SEM" />
+  <node source-key="2532" source-pkey="2500" source-value="网络推广总监" result-key="0x1517" result-value="网站推广" />
+  <node source-key="2533" source-pkey="2500" source-value="网络推广经理/主管" result-key="0x1517" result-value="网站推广" />
+  <node source-key="2534" source-pkey="2500" source-value="网络推广专员" result-key="0x1517" result-value="网站推广" />
+  <node source-key="2535" source-pkey="2500" source-value="电子商务总监" result-key="0x430c" result-value="电子商务总监" />
+  <node source-key="2527" source-pkey="2500" source-value="电子商务经理/主管" result-key="0x4303" result-value="电子商务经理 | 主管" />
+  <node source-key="2528" source-pkey="2500" source-value="电子商务专员" result-key="0x4304" result-value="电子商务专员 | 助理" />
+  <node source-key="2504" source-pkey="2500" source-value="网络工程师" result-key="0x4507" result-value="网络工程师" />
+  <node source-key="2515" source-pkey="2500" source-value="UI设计师/顾问" result-key="0x4110" result-value="用户体验（UE | UX）设计" />
+  <node source-key="2536" source-pkey="2500" source-value="用户体验（UE/UX）设计师" result-key="0x4110" result-value="用户体验（UE | UX）设计" />
+  <node source-key="2539" source-pkey="2500" source-value="Web前端开发" result-key="0x410d" result-value="WEB前端开发" />
+  <node source-key="2512" source-pkey="2500" source-value="网站架构设计师" result-key="0x4119" result-value="网站架构设计师" />
+  <node source-key="2513" source-pkey="2500" source-value="网站维护工程师" result-key="0x4508" result-value="网络管理员" />
+  <node source-key="2505" source-pkey="2500" source-value="系统管理员/网络管理员" result-key="0x4508" result-value="网络管理员" />
+  <node source-key="2506" source-pkey="2500" source-value="网站策划" result-key="0x4307" result-value="网站编辑" />
+  <node source-key="2507" source-pkey="2500" source-value="网站编辑" result-key="0x4307" result-value="网站编辑" />
+  <node source-key="2508" source-pkey="2500" source-value="网页设计/制作/美工" result-key="0x4111" result-value="网页设计 | 制作 | 美工" />
+  <node source-key="2517" source-pkey="2500" source-value="脚本开发工程师" result-key="0x411f" result-value="脚本开发工程师" />
+  <node source-key="2518" source-pkey="2500" source-value="游戏策划师" result-key="0x4113" result-value="游戏策划" />
+  <node source-key="2519" source-pkey="2500" source-value="游戏界面设计师" result-key="0x9215" result-value="游戏界面设计" />
+  <node source-key="2520" source-pkey="2500" source-value="Flash设计/开发" result-key="0x9208" result-value="Flash设计 | 开发" />
+  <node source-key="2521" source-pkey="2500" source-value="特效设计师" result-key="0x9209" result-value="特效设计" />
+  <node source-key="2522" source-pkey="2500" source-value="视觉设计师" result-key="0x920a" result-value="视觉设计" />
+  <node source-key="2523" source-pkey="2500" source-value="音效设计师" result-key="0x9209" result-value="特效设计" />
+  <node source-key="2509" source-pkey="2500" source-value="网络信息安全工程师" result-key="0x4509" result-value="网络与信息安全工程师" />
+  <node source-key="2511" source-pkey="2500" source-value="其他" result-key="0x431a" result-value="其他" />
+  <node source-key="2600" source-pkey="0" source-value="IT-管理" result-key="0x4600" result-value="IT管理 | 项目协调" />
+  <node source-key="2601" source-pkey="2600" source-value="首席技术执行官CTO/首席信息官CIO" result-key="0x4601" result-value="CTO | CIO" />
+  <node source-key="2602" source-pkey="2600" source-value="技术总监/经理" result-key="0x4602" result-value="IT技术 | 研发总监" />
+  <node source-key="2603" source-pkey="2600" source-value="信息技术经理/主管" result-key="0x4501" result-value="信息技术经理 | 主管" />
+  <node source-key="2604" source-pkey="2600" source-value="信息技术专员" result-key="0x4502" result-value="信息技术专员" />
+  <node source-key="2605" source-pkey="2600" source-value="项目总监" result-key="0x4604" result-value="IT项目总监" />
+  <node source-key="2606" source-pkey="2600" source-value="项目经理" result-key="0x4605" result-value="IT项目经理 | 主管" />
+  <node source-key="2607" source-pkey="2600" source-value="项目主管" result-key="0x4603" result-value="IT技术 | 研发经理 | 主管" />
+  <node source-key="2608" source-pkey="2600" source-value="项目执行/协调人员" result-key="0x4606" result-value="IT项目执行 | 协调人员" />
+  <node source-key="2609" source-pkey="2600" source-value="其他" result-key="0x4607" result-value="其他" />
+  <node source-key="2700" source-pkey="0" source-value="IT-品管、技术支持及其它" result-key="0x4400" result-value="IT质量管理 | 测试 | 配置管理" />
+  <node source-key="2701" source-pkey="2700" source-value="技术支持/维护经理" result-key="0x4503" result-value="IT技术支持 | 维护经理" />
+  <node source-key="2702" source-pkey="2700" source-value="技术支持/维护工程师" result-key="0x4504" result-value="IT技术支持 | 维护工程师" />
+  <node source-key="2712" source-pkey="2700" source-value="网络管理(Helpdesk)" result-key="0x450f" result-value="Helpdesk" />
+  <node source-key="2715" source-pkey="2700" source-value="网络维修" result-key="0x450f" result-value="Helpdesk" />
+  <node source-key="2703" source-pkey="2700" source-value="计量工程师" result-key="0x821d" result-value="仪器 | 仪表 | 计量工程师" />
+  <node source-key="2704" source-pkey="2700" source-value="标准化工程师" result-key="0x4407" result-value="信息技术标准化工程师" />
+  <node source-key="2705" source-pkey="2700" source-value="品质经理" result-key="0x4503" result-value="IT技术支持 | 维护经理" />
+  <node source-key="2706" source-pkey="2700" source-value="系统测试" result-key="0x4403" result-value="系统测试" />
+  <node source-key="2707" source-pkey="2700" source-value="软件测试" result-key="0x4404" result-value="软件测试" />
+  <node source-key="2708" source-pkey="2700" source-value="硬件测试" result-key="0x4405" result-value="硬件测试" />
+  <node source-key="2709" source-pkey="2700" source-value="测试员" result-key="0x4409" result-value="游戏测试" />
+  <node source-key="2713" source-pkey="2700" source-value="文档工程师" result-key="0x450e" result-value="IT文档工程师" />
+  <node source-key="2714" source-pkey="2700" source-value="配置管理工程师" result-key="0x4406" result-value="配置管理工程师" />
+  <node source-key="2710" source-pkey="2700" source-value="技术文员/助理" result-key="0x450d" result-value="IT技术文员 | 助理" />
+  <node source-key="2716" source-pkey="2700" source-value="手机维修" result-key="0x440a" result-value="手机维修" />
+  <node source-key="2717" source-pkey="2700" source-value="电脑维修" result-key="0x440a" result-value="手机维修" />
+  <node source-key="2711" source-pkey="2700" source-value="其他" result-key="0x440b" result-value="其他" />
+  <node source-key="2800" source-pkey="0" source-value="通信技术开发及应用" result-key="0x4700" result-value="电信 | 通信技术开发及应用" />
+  <node source-key="2801" source-pkey="2800" source-value="通信技术工程师" result-key="0x4701" result-value="通信技术工程师" />
+  <node source-key="2802" source-pkey="2800" source-value="有线传输工程师" result-key="0x4707" result-value="有线传输工程师" />
+  <node source-key="2803" source-pkey="2800" source-value="无线通信工程师" result-key="0x4708" result-value="无线 | 射频通信工程师" />
+  <node source-key="2804" source-pkey="2800" source-value="电信交换工程师" result-key="0x4706" result-value="电信交换工程师" />
+  <node source-key="2805" source-pkey="2800" source-value="数据通信工程师" result-key="0x4703" result-value="数据通信工程师" />
+  <node source-key="2806" source-pkey="2800" source-value="移动通信工程师" result-key="0x4704" result-value="移动通信工程师" />
+  <node source-key="2807" source-pkey="2800" source-value="电信网络工程师" result-key="0x4705" result-value="电信网络工程师" />
+  <node source-key="2808" source-pkey="2800" source-value="通信电源工程师" result-key="0x4709" result-value="通信电源工程师" />
+  <node source-key="2810" source-pkey="2800" source-value="增值产品开发工程师" result-key="0x470c" result-value="增值产品开发工程师" />
+  <node source-key="2811" source-pkey="2800" source-value="手机软件开发工程师" result-key="0x410a" result-value="手机软件开发工程师" />
+  <node source-key="2809" source-pkey="2800" source-value="其他" result-key="0x470d" result-value="其他" />
+  <node source-key="2900" source-pkey="0" source-value="电子/电器/半导体/仪器仪表" result-key="0x8200" result-value="电子 | 电器 | 半导体 | 仪器仪表" />
+  <node source-key="2901" source-pkey="2900" source-value="集成电路IC设计/应用工程师" result-key="0x8208" result-value="集成电路IC设计 | 应用工程师" />
+  <node source-key="2902" source-pkey="2900" source-value="IC验证工程师" result-key="0x8209" result-value="IC验证工程师" />
+  <node source-key="2903" source-pkey="2900" source-value="电子工程师/技术员" result-key="0x8221" result-value="电子工程师 | 技术员" />
+  <node source-key="2917" source-pkey="2900" source-value="电子技术研发工程师" result-key="0x8201" result-value="电子技术研发工程师" />
+  <node source-key="2924" source-pkey="2900" source-value="射频工程师" result-key="0x820b" result-value="射频工程师" />
+  <node source-key="2920" source-pkey="2900" source-value="电子/电器维修工程师/技师" result-key="0x8216" result-value="电子 | 电器维修 | 保养" />
+  <node source-key="2921" source-pkey="2900" source-value="变压器与磁电工程师" result-key="0x820f" result-value="变压器与磁电工程师" />
+  <node source-key="2922" source-pkey="2900" source-value="版图设计工程师" result-key="0x8207" result-value="版图设计工程师" />
+  <node source-key="2904" source-pkey="2900" source-value="电气工程师/技术员" result-key="0x8218" result-value="电气工程师" />
+  <node source-key="2905" source-pkey="2900" source-value="电路工程师/技术员(模拟/数字)" result-key="0x8205" result-value="电路工程师 | 技术员" />
+  <node source-key="2906" source-pkey="2900" source-value="电声/音响工程师/技术员" result-key="0x8222" result-value="电声 | 音响工程师 | 技术员" />
+  <node source-key="2918" source-pkey="2900" source-value="激光/光电子技术" result-key="0x820d" result-value="激光 | 光电子技术" />
+  <node source-key="2907" source-pkey="2900" source-value="半导体技术" result-key="0x821c" result-value="半导体技术" />
+  <node source-key="2908" source-pkey="2900" source-value="自动控制工程师/技术员" result-key="0x821e" result-value="自动化工程师" />
+  <node source-key="2909" source-pkey="2900" source-value="电子软件开发(ARM/MCU...)" result-key="0x821e" result-value="自动化工程师" />
+  <node source-key="2910" source-pkey="2900" source-value="嵌入式软件开发(Linux/单片机/PLC/DSP…)" result-key="0x410b" result-value="嵌入式软件开发" />
+  <node source-key="2911" source-pkey="2900" source-value="电池/电源开发" result-key="0x8210" result-value="电池 | 电源开发" />
+  <node source-key="2912" source-pkey="2900" source-value="FAE 现场应用工程师" result-key="0x821f" result-value="现场应用工程师（FAE）" />
+  <node source-key="2923" source-pkey="2900" source-value="工艺工程师" result-key="0x8204" result-value="电子 | 电器工艺 | 制程工程师" />
+  <node source-key="2913" source-pkey="2900" source-value="家用电器/数码产品研发" result-key="0x8211" result-value="家用电器 | 数码产品研发" />
+  <node source-key="2914" source-pkey="2900" source-value="仪器/仪表/计量分析师" result-key="0x820a" result-value="电子元器件工程师" />
+  <node source-key="2915" source-pkey="2900" source-value="测试工程师" result-key="0x8220" result-value="测试 | 可靠性工程师" />
+  <node source-key="2925" source-pkey="2900" source-value="安防系统工程师" result-key="0x8214" result-value="安防系统工程师" />
+  <node source-key="2916" source-pkey="2900" source-value="其他" result-key="0x8223" result-value="其他" />
+  <node source-key="200" source-pkey="0" source-value="销售管理" result-key="0x1200" result-value="销售管理" />
+  <node source-key="201" source-pkey="200" source-value="销售总监" result-key="0x1201" result-value="销售总监" />
+  <node source-key="202" source-pkey="200" source-value="销售经理" result-key="0x1202" result-value="销售经理" />
+  <node source-key="203" source-pkey="200" source-value="销售主管" result-key="0x1203" result-value="销售主管" />
+  <node source-key="232" source-pkey="200" source-value="业务拓展主管/经理" result-key="0x120b" result-value="业务拓展经理 | 主管" />
+  <node source-key="233" source-pkey="200" source-value="渠道/分销总监" result-key="0x1207" result-value="渠道 | 分销总监" />
+  <node source-key="207" source-pkey="200" source-value="渠道/分销经理" result-key="0x1208" result-value="渠道 | 分销经理 | 主管" />
+  <node source-key="220" source-pkey="200" source-value="渠道/分销主管" result-key="0x1208" result-value="渠道 | 分销经理 | 主管" />
+  <node source-key="235" source-pkey="200" source-value="大客户管理" result-key="0x120c" result-value="大客户销售经理" />
+  <node source-key="208" source-pkey="200" source-value="客户经理/主管" result-key="0x1205" result-value="客户经理" />
+  <node source-key="230" source-pkey="200" source-value="区域销售总监" result-key="0x1209" result-value="区域销售总监" />
+  <node source-key="226" source-pkey="200" source-value="区域销售经理" result-key="0x120a" result-value="区域销售经理 | 主管" />
+  <node source-key="234" source-pkey="200" source-value="团购经理/主管" result-key="0x120d" result-value="团购经理 | 主管" />
+  <node source-key="231" source-pkey="200" source-value="其他" result-key="0x120f" result-value="其他" />
+  <node source-key="3000" source-pkey="0" source-value="销售人员" result-key="0x1100" result-value="销售业务" />
+  <node source-key="3009" source-pkey="3000" source-value="大客户销售" result-key="0x1107" result-value="大客户销售代表" />
+  <node source-key="3001" source-pkey="3000" source-value="销售代表" result-key="0x1101" result-value="销售代表" />
+  <node source-key="3002" source-pkey="3000" source-value="渠道/分销专员" result-key="0x1104" result-value="渠道 | 分销专员" />
+  <node source-key="3003" source-pkey="3000" source-value="客户代表" result-key="0x1102" result-value="客户代表" />
+  <node source-key="3004" source-pkey="3000" source-value="销售工程师" result-key="0x1103" result-value="销售工程师" />
+  <node source-key="3005" source-pkey="3000" source-value="电话销售" result-key="0x1108" result-value="电话销售" />
+  <node source-key="3010" source-pkey="3000" source-value="网络/在线销售" result-key="0x1109" result-value="网络 | 在线销售" />
+  <node source-key="3008" source-pkey="3000" source-value="团购业务员" result-key="0x110a" result-value="团购业务员" />
+  <node source-key="3006" source-pkey="3000" source-value="经销商" result-key="0x110d" result-value="经销商" />
+  <node source-key="3011" source-pkey="3000" source-value="会籍顾问" result-key="0x1111" result-value="会籍顾问" />
+  <node source-key="3012" source-pkey="3000" source-value="销售助理" result-key="0x1105" result-value="区域销售专员 | 助理" />
+  <node source-key="3007" source-pkey="3000" source-value="其他" result-key="0x1112" result-value="其他" />
+  <node source-key="3100" source-pkey="0" source-value="销售行政及商务" result-key="0x1300" result-value="销售行政 | 商务" />
+  <node source-key="3101" source-pkey="3100" source-value="销售行政经理/主管" result-key="0x1301" result-value="销售行政经理 | 主管" />
+  <node source-key="3102" source-pkey="3100" source-value="销售行政专员/助理" result-key="0x1302" result-value="销售行政专员 | 助理" />
+  <node source-key="3108" source-pkey="3100" source-value="业务分析经理/主管" result-key="0x1309" result-value="业务分析经理 | 主管" />
+  <node source-key="3109" source-pkey="3100" source-value="业务分析专员/助理" result-key="0x130a" result-value="业务分析专员 | 助理" />
+  <node source-key="3103" source-pkey="3100" source-value="商务经理" result-key="0x1305" result-value="商务经理 | 主管" />
+  <node source-key="3104" source-pkey="3100" source-value="商务主管/专员" result-key="0x1306" result-value="商务专员 | 助理" />
+  <node source-key="3105" source-pkey="3100" source-value="商务助理" result-key="0x1306" result-value="商务专员 | 助理" />
+  <node source-key="3106" source-pkey="3100" source-value="销售行政助理" result-key="0x1302" result-value="销售行政专员 | 助理" />
+  <node source-key="3107" source-pkey="3100" source-value="其他" result-key="0x130b" result-value="其他" />
+  <node source-key="3200" source-pkey="0" source-value="客服及支持" result-key="0x1400" result-value="客服 | 售前 | 售后技术支持" />
+  <node source-key="3201" source-pkey="3200" source-value="客服总监" result-key="0x1401" result-value="客户服务总监" />
+  <node source-key="3202" source-pkey="3200" source-value="客服经理" result-key="0x1402" result-value="客户服务经理" />
+  <node source-key="3203" source-pkey="3200" source-value="客服主管" result-key="0x1403" result-value="客户服务主管" />
+  <node source-key="3204" source-pkey="3200" source-value="客服专员/助理" result-key="0x1404" result-value="客户服务专员 | 助理" />
+  <node source-key="3210" source-pkey="3200" source-value="客户关系经理/主管" result-key="0x1405" result-value="客户关系 | 投诉协调人员" />
+  <node source-key="3205" source-pkey="3200" source-value="售前/售后技术支持经理" result-key="0x1408" result-value="售前 | 售后技术支持管理" />
+  <node source-key="3206" source-pkey="3200" source-value="售前/售后技术支持主管" result-key="0x1408" result-value="售前 | 售后技术支持管理" />
+  <node source-key="3207" source-pkey="3200" source-value="售前/售后技术支持工程师" result-key="0x1409" result-value="售前 | 售后技术支持工程师" />
+  <node source-key="3208" source-pkey="3200" source-value="咨询热线/呼叫中心服务人员" result-key="0x1406" result-value="客户咨询热线 | 呼叫中心人员" />
+  <node source-key="3213" source-pkey="3200" source-value="网络/在线客服" result-key="0x1407" result-value="网络 | 在线客服" />
+  <node source-key="3211" source-pkey="3200" source-value="投诉专员" result-key="0x1406" result-value="客户咨询热线 | 呼叫中心人员" />
+  <node source-key="3212" source-pkey="3200" source-value="VIP专员" result-key="0x140a" result-value="VIP专员" />
+  <node source-key="3209" source-pkey="3200" source-value="其他" result-key="0x140c" result-value="其他" />
+  <node source-key="400" source-pkey="0" source-value="财务/审计/税务" result-key="0x2100" result-value="财务 | 审计 | 税务" />
+  <node source-key="444" source-pkey="400" source-value="首席财务官 CFO" result-key="0x3303" result-value="首席财务官CFO" />
+  <node source-key="401" source-pkey="400" source-value="财务总监" result-key="0x2102" result-value="财务总监" />
+  <node source-key="402" source-pkey="400" source-value="财务经理" result-key="0x2103" result-value="财务经理" />
+  <node source-key="445" source-pkey="400" source-value="财务顾问" result-key="0x2105" result-value="财务顾问" />
+  <node source-key="403" source-pkey="400" source-value="财务主管/总账主管" result-key="0x2104" result-value="财务主管 | 总帐主管" />
+  <node source-key="404" source-pkey="400" source-value="会计经理/会计主管" result-key="0x2109" result-value="会计经理 | 主管" />
+  <node source-key="405" source-pkey="400" source-value="会计" result-key="0x210a" result-value="会计 | 会计师" />
+  <node source-key="414" source-pkey="400" source-value="出纳员" result-key="0x210c" result-value="出纳员" />
+  <node source-key="422" source-pkey="400" source-value="财务助理/文员" result-key="0x2106" result-value="财务助理" />
+  <node source-key="448" source-pkey="400" source-value="固定资产会计" result-key="0x2116" result-value="固定资产会计" />
+  <node source-key="406" source-pkey="400" source-value="财务分析经理/主管" result-key="0x2107" result-value="财务分析经理 | 主管" />
+  <node source-key="407" source-pkey="400" source-value="财务分析员" result-key="0x2108" result-value="财务分析员" />
+  <node source-key="408" source-pkey="400" source-value="成本经理/成本主管" result-key="0x2111" result-value="成本经理 | 主管" />
+  <node source-key="409" source-pkey="400" source-value="成本管理员" result-key="0x2117" result-value="成本管理员" />
+  <node source-key="449" source-pkey="400" source-value="资金经理/主管" result-key="0x2113" result-value="资产 | 资金管理" />
+  <node source-key="450" source-pkey="400" source-value="资金专员" result-key="0x2114" result-value="资金专员" />
+  <node source-key="410" source-pkey="400" source-value="审计经理/主管" result-key="0x210d" result-value="审计经理 | 主管" />
+  <node source-key="419" source-pkey="400" source-value="审计专员/助理" result-key="0x210e" result-value="审计专员 | 助理" />
+  <node source-key="411" source-pkey="400" source-value="税务经理/税务主管" result-key="0x210f" result-value="税务经理 | 主管" />
+  <node source-key="412" source-pkey="400" source-value="税务专员/助理" result-key="0x2110" result-value="税务专员 | 助理" />
+  <node source-key="446" source-pkey="400" source-value="统计员" result-key="0x2115" result-value="统计员" />
+  <node source-key="443" source-pkey="400" source-value="其他" result-key="0x2118" result-value="其他" />
+  <node source-key="3300" source-pkey="0" source-value="金融/证券/期货/投资" result-key="0x6200" result-value="证券 | 期货 | 投资管理 | 服务" />
+  <node source-key="3301" source-pkey="3300" source-value="证券/期货/外汇经纪人" result-key="0x6202" result-value="证券 | 期货 | 外汇经纪人" />
+  <node source-key="3302" source-pkey="3300" source-value="证券分析师" result-key="0x6207" result-value="证券分析 | 金融研究" />
+  <node source-key="3303" source-pkey="3300" source-value="股票/期货操盘手" result-key="0x620d" result-value="股票 | 期货操盘手" />
+  <node source-key="3304" source-pkey="3300" source-value="金融/经济研究员" result-key="0x6212" result-value="金融 | 经济研究员" />
+  <node source-key="3312" source-pkey="3300" source-value="金融产品经理" result-key="0x6213" result-value="金融产品经理" />
+  <node source-key="3315" source-pkey="3300" source-value="金融产品销售" result-key="0x6214" result-value="金融产品销售" />
+  <node source-key="3305" source-pkey="3300" source-value="投资/基金项目经理" result-key="0x6215" result-value="基金项目经理" />
+  <node source-key="3306" source-pkey="3300" source-value="投资/理财顾问" result-key="0x6208" result-value="投资 | 理财服务" />
+  <node source-key="3307" source-pkey="3300" source-value="投资银行业务" result-key="0x6209" result-value="投资银行业务" />
+  <node source-key="3313" source-pkey="3300" source-value="投资银行财务分析" result-key="0x6218" result-value="投资银行财务分析" />
+  <node source-key="3308" source-pkey="3300" source-value="融资经理/融资主管" result-key="0x620b" result-value="融资经理 | 主管" />
+  <node source-key="3309" source-pkey="3300" source-value="融资专员" result-key="0x620c" result-value="融资专员 | 助理" />
+  <node source-key="3314" source-pkey="3300" source-value="风险管理/控制" result-key="0x620f" result-value="风险管理 | 控制 | 稽查" />
+  <node source-key="3310" source-pkey="3300" source-value="拍卖/担保/典当业务" result-key="0x6404" result-value="典当业务" />
+  <node source-key="3311" source-pkey="3300" source-value="其他" result-key="0x6406" result-value="其他" />
+  <node source-key="2200" source-pkey="0" source-value="银行" result-key="0x6100" result-value="银行" />
+  <node source-key="2207" source-pkey="2200" source-value="行长/副行长" result-key="0x6101" result-value="行长 | 副行长" />
+  <node source-key="2231" source-pkey="2200" source-value="银行客户总监" result-key="0x6104" result-value="银行客户总监" />
+  <node source-key="2223" source-pkey="2200" source-value="个人业务部门经理/主管" result-key="0x6115" result-value="个人业务部门经理 | 主管" />
+  <node source-key="2224" source-pkey="2200" source-value="个人业务客户经理" result-key="0x6105" result-value="银行客户经理" />
+  <node source-key="2225" source-pkey="2200" source-value="公司业务部门经理/主管" result-key="0x6116" result-value="公司业务部门经理 | 主管" />
+  <node source-key="2226" source-pkey="2200" source-value="公司业务客户经理" result-key="0x6116" result-value="公司业务部门经理 | 主管" />
+  <node source-key="2227" source-pkey="2200" source-value="综合业务经理/主管" result-key="0x6109" result-value="综合业务经理 | 主管" />
+  <node source-key="2228" source-pkey="2200" source-value="综合业务专员" result-key="0x610a" result-value="综合业务专员 | 助理" />
+  <node source-key="2208" source-pkey="2200" source-value="资产评估/分析" result-key="0x620e" result-value="资产评估" />
+  <node source-key="2209" source-pkey="2200" source-value="风险控制" result-key="0x6114" result-value="风险控制" />
+  <node source-key="2215" source-pkey="2200" source-value="信贷管理" result-key="0x610f" result-value="信贷管理 | 资信评估 | 分析" />
+  <node source-key="2229" source-pkey="2200" source-value="信审核查" result-key="0x6110" result-value="信审核查" />
+  <node source-key="2210" source-pkey="2200" source-value="进出口/信用证结算" result-key="0x6112" result-value="进出口 | 信用证结算" />
+  <node source-key="2212" source-pkey="2200" source-value="外汇交易" result-key="0x6111" result-value="外汇交易" />
+  <node source-key="2211" source-pkey="2200" source-value="清算人员" result-key="0x6113" result-value="清算人员" />
+  <node source-key="2213" source-pkey="2200" source-value="高级客户经理/客户经理" result-key="0x6117" result-value="高级客户经理 | 客户经理" />
+  <node source-key="2214" source-pkey="2200" source-value="客户主管/专员" result-key="0x6106" result-value="银行客户主管" />
+  <node source-key="2230" source-pkey="2200" source-value="营业部大堂经理" result-key="0x6103" result-value="银行大堂经理" />
+  <node source-key="2222" source-pkey="2200" source-value="信用卡销售" result-key="0x6118" result-value="信用卡销售" />
+  <node source-key="2232" source-pkey="2200" source-value="呼叫中心客服" result-key="0x140b" result-value="呼叫中心客服" />
+  <node source-key="2216" source-pkey="2200" source-value="银行柜员" result-key="0x6119" result-value="银行柜员" />
+  <node source-key="2221" source-pkey="2200" source-value="其他" result-key="0x611a" result-value="其他" />
+  <node source-key="3400" source-pkey="0" source-value="保险" result-key="0x6300" result-value="保险" />
+  <node source-key="3401" source-pkey="3400" source-value="保险精算师" result-key="0x6309" result-value="保险精算师" />
+  <node source-key="3402" source-pkey="3400" source-value="保险产品开发/项目策划" result-key="0x6304" result-value="保险产品开发 | 项目策划" />
+  <node source-key="3403" source-pkey="3400" source-value="保险业务经理/主管" result-key="0x6301" result-value="保险业务管理" />
+  <node source-key="3404" source-pkey="3400" source-value="保险经纪人/保险代理" result-key="0x6302" result-value="保险代理 | 经纪人 | 客户经理" />
+  <node source-key="3405" source-pkey="3400" source-value="理财顾问/财务规划师" result-key="0x630e" result-value="理财顾问 | 财务规划师" />
+  <node source-key="3406" source-pkey="3400" source-value="储备经理人" result-key="0x630d" result-value="储备经理人" />
+  <node source-key="3414" source-pkey="3400" source-value="保险电销" result-key="0x630f" result-value="保险电销" />
+  <node source-key="3407" source-pkey="3400" source-value="保险核保" result-key="0x6310" result-value="保险核安" />
+  <node source-key="3408" source-pkey="3400" source-value="保险理赔" result-key="0x6307" result-value="核保理赔" />
+  <node source-key="3409" source-pkey="3400" source-value="保险客户服务/续期管理" result-key="0x630a" result-value="客户服务 | 续期管理" />
+  <node source-key="3410" source-pkey="3400" source-value="保险培训师" result-key="0x6305" result-value="保险培训师" />
+  <node source-key="3411" source-pkey="3400" source-value="保险内勤" result-key="0x630b" result-value="保险内勤" />
+  <node source-key="3413" source-pkey="3400" source-value="契约管理" result-key="0x6306" result-value="保险契约管理" />
+  <node source-key="3412" source-pkey="3400" source-value="其他" result-key="0x6311" result-value="其他" />
+  <node source-key="3500" source-pkey="0" source-value="生产/营运" result-key="0x8100" result-value="生产管理 | 运营" />
+  <node source-key="3501" source-pkey="3500" source-value="工厂经理/厂长" result-key="0x8101" result-value="工厂厂长 | 副厂长" />
+  <node source-key="3502" source-pkey="3500" source-value="总工程师/副总工程师" result-key="0x8111" result-value="总工程师 | 副总工程师" />
+  <node source-key="3513" source-pkey="3500" source-value="项目总监" result-key="0x8106" result-value="生产项目经理 | 主管" />
+  <node source-key="3503" source-pkey="3500" source-value="项目经理/主管" result-key="0x8106" result-value="生产项目经理 | 主管" />
+  <node source-key="3504" source-pkey="3500" source-value="项目工程师" result-key="0x8107" result-value="生产项目工程师" />
+  <node source-key="3505" source-pkey="3500" source-value="营运经理" result-key="0x8114" result-value="营运经理" />
+  <node source-key="3506" source-pkey="3500" source-value="营运主管" result-key="0x8113" result-value="营运主管" />
+  <node source-key="3514" source-pkey="3500" source-value="生产总监" result-key="0x8102" result-value="生产总监" />
+  <node source-key="3507" source-pkey="3500" source-value="生产经理/车间主任" result-key="0x8103" result-value="生产经理 | 车间主任" />
+  <node source-key="3509" source-pkey="3500" source-value="生产主管" result-key="0x8104" result-value="生产主管 | 督导 | 组长" />
+  <node source-key="3515" source-pkey="3500" source-value="生产领班/组长" result-key="0x8104" result-value="生产主管 | 督导 | 组长" />
+  <node source-key="3508" source-pkey="3500" source-value="生产计划/物料管理(PMC)" result-key="0x810e" result-value="生产物料管理（PMC）" />
+  <node source-key="3512" source-pkey="3500" source-value="生产文员" result-key="0x8112" result-value="生产文员" />
+  <node source-key="3516" source-pkey="3500" source-value="设备主管" result-key="0x8115" result-value="设备主管" />
+  <node source-key="3510" source-pkey="3500" source-value="化验员" result-key="0x8116" result-value="化验师" />
+  <node source-key="3511" source-pkey="3500" source-value="其他" result-key="0x8118" result-value="其他" />
+  <node source-key="3600" source-pkey="0" source-value="质量安全" result-key="0x3200" result-value="质量管理 | 安全防护" />
+  <node source-key="3601" source-pkey="3600" source-value="质量管理/测试经理(QA/QC经理)" result-key="0x3201" result-value="质量管理 | 测试经理" />
+  <node source-key="3602" source-pkey="3600" source-value="质量管理/测试主管(QA/QC主管)" result-key="0x3202" result-value="质量管理 | 测试主管" />
+  <node source-key="3603" source-pkey="3600" source-value="质量管理/测试工程师(QA/QC工程师)" result-key="0x3203" result-value="质量管理 | 测试工程师" />
+  <node source-key="3604" source-pkey="3600" source-value="质量检验员/测试员" result-key="0x3204" result-value="质量检验员 | 测试员" />
+  <node source-key="3605" source-pkey="3600" source-value="可靠度工程师" result-key="0x320c" result-value="可靠度工程师" />
+  <node source-key="3606" source-pkey="3600" source-value="故障分析工程师" result-key="0x320d" result-value="故障分析工程师" />
+  <node source-key="3607" source-pkey="3600" source-value="认证工程师" result-key="0x3206" result-value="认证 | 体系工程师 | 审核员" />
+  <node source-key="3608" source-pkey="3600" source-value="体系工程师" result-key="0x3206" result-value="认证 | 体系工程师 | 审核员" />
+  <node source-key="3615" source-pkey="3600" source-value="审核员" result-key="0x3206" result-value="认证 | 体系工程师 | 审核员" />
+  <node source-key="3609" source-pkey="3600" source-value="环境/健康/安全经理/主管（EHS）" result-key="0x3207" result-value="环境 | 健康 | 安全经理 | 主管" />
+  <node source-key="3610" source-pkey="3600" source-value="环境/健康/安全工程师（EHS）" result-key="0x3208" result-value="环境 | 健康 | 安全工程师" />
+  <node source-key="3614" source-pkey="3600" source-value="安全员" result-key="0x320a" result-value="安全管理" />
+  <node source-key="3611" source-pkey="3600" source-value="供应商管理" result-key="0x3209" result-value="供应商 | 采购质量管理" />
+  <node source-key="3612" source-pkey="3600" source-value="采购材料、设备质量管理" result-key="0x320e" result-value="采购材料 | 设备管理" />
+  <node source-key="3613" source-pkey="3600" source-value="其他" result-key="0x320f" result-value="其他" />
+  <node source-key="500" source-pkey="0" source-value="工程/机械/能源" result-key="0x8500" result-value="机械设计 | 制造 | 维修" />
+  <node source-key="510" source-pkey="500" source-value="技术研发经理/主管" result-key="0x851b" result-value="技术研发经理 | 主管" />
+  <node source-key="511" source-pkey="500" source-value="技术研发工程师" result-key="0x851a" result-value="技术研发工程师" />
+  <node source-key="547" source-pkey="500" source-value="产品工艺/制程工程师" result-key="0x850a" result-value="机械工艺 | 制程工程师" />
+  <node source-key="559" source-pkey="500" source-value="产品规划工程师" result-key="0x850a" result-value="机械工艺 | 制程工程师" />
+  <node source-key="584" source-pkey="500" source-value="项目管理" result-key="0x851d" result-value="项目管理" />
+  <node source-key="512" source-pkey="500" source-value="实验室负责人/工程师" result-key="0x851e" result-value="实验室负责人 | 工程师" />
+  <node source-key="513" source-pkey="500" source-value="工程/设备经理" result-key="0x8503" result-value="机械设备经理" />
+  <node source-key="514" source-pkey="500" source-value="工程/设备主管" result-key="0x8502" result-value="工程机械主管" />
+  <node source-key="515" source-pkey="500" source-value="工程/设备工程师" result-key="0x8504" result-value="机械设备工程师" />
+  <node source-key="523" source-pkey="500" source-value="工程/机械绘图员" result-key="0x8507" result-value="机械制图员" />
+  <node source-key="560" source-pkey="500" source-value="工业工程师" result-key="0x810c" result-value="工业工程师" />
+  <node source-key="582" source-pkey="500" source-value="材料工程师" result-key="0x8512" result-value="材料工程师" />
+  <node source-key="539" source-pkey="500" source-value="机械工程师" result-key="0x8505" result-value="机械工程师" />
+  <node source-key="561" source-pkey="500" source-value="结构工程师" result-key="0x8509" result-value="机械结构工程师" />
+  <node source-key="548" source-pkey="500" source-value="模具工程师" result-key="0x850d" result-value="模具工程师" />
+  <node source-key="544" source-pkey="500" source-value="机电工程师" result-key="0x8511" result-value="机电工程师" />
+  <node source-key="580" source-pkey="500" source-value="维修经理/主管" result-key="0x8520" result-value="维修经理 | 主管" />
+  <node source-key="537" source-pkey="500" source-value="维修工程师" result-key="0x8513" result-value="机械维修 | 保养" />
+  <node source-key="581" source-pkey="500" source-value="装配工程师/技师" result-key="0x8521" result-value="装配工程师 | 客户经理" />
+  <node source-key="562" source-pkey="500" source-value="铸造/锻造工程师/技师" result-key="0x8510" result-value="铸造 | 锻造工程师 | 技师" />
+  <node source-key="563" source-pkey="500" source-value="注塑工程师/技师" result-key="0x850f" result-value="注塑工程师" />
+  <node source-key="564" source-pkey="500" source-value="焊接工程师/技师" result-key="0x8522" result-value="焊接工程师 | 技师" />
+  <node source-key="565" source-pkey="500" source-value="夹具工程师/技师" result-key="0x850e" result-value="夹具工程师" />
+  <node source-key="566" source-pkey="500" source-value="CNC工程师" result-key="0x850c" result-value="CNC | 数控工程师" />
+  <node source-key="567" source-pkey="500" source-value="冲压工程师/技师" result-key="0x8523" result-value="冲压工程师 | 技师" />
+  <node source-key="568" source-pkey="500" source-value="锅炉工程师/技师" result-key="0x8524" result-value="锅炉工程师 | 技师" />
+  <node source-key="569" source-pkey="500" source-value="电力工程师/技术员" result-key="0xc105" result-value="电力工程师 | 技术员" />
+  <node source-key="570" source-pkey="500" source-value="光源与照明工程" result-key="0x820e" result-value="光源 | 照明工程师" />
+  <node source-key="583" source-pkey="500" source-value="光伏系统工程师" result-key="0x8525" result-value="光伏系统工程师" />
+  <node source-key="571" source-pkey="500" source-value="汽车/摩托车工程师" result-key="0x8526" result-value="汽车 | 摩托车工程师" />
+  <node source-key="572" source-pkey="500" source-value="船舶工程师" result-key="0x8518" result-value="船舶设计与制造" />
+  <node source-key="575" source-pkey="500" source-value="轨道交通工程师/技术员" result-key="0x8527" result-value="轨道交通工程师 | 技术员" />
+  <node source-key="576" source-pkey="500" source-value="飞机维修机械师" result-key="0x8515" result-value="飞机维修 | 保养" />
+  <node source-key="573" source-pkey="500" source-value="飞行器设计与制造" result-key="0x8514" result-value="飞机设计与制造" />
+  <node source-key="577" source-pkey="500" source-value="水利/水电工程师" result-key="0xc104" result-value="水利 | 水电工程师" />
+  <node source-key="585" source-pkey="500" source-value="空调/热能工程师" result-key="0xc102" result-value="空调 | 热能工程师" />
+  <node source-key="578" source-pkey="500" source-value="石油天然气技术人员" result-key="0xc101" result-value="石油 | 天然气技术人员" />
+  <node source-key="579" source-pkey="500" source-value="矿产勘探/地质勘测工程师" result-key="0xc106" result-value="地质勘查 | 选矿 | 采矿" />
+  <node source-key="574" source-pkey="500" source-value="其他" result-key="0xc10b" result-value="其他" />
+  <node source-key="5400" source-pkey="0" source-value="汽车制造" result-key="0x8300" result-value="汽车制造" />
+  <node source-key="5401" source-pkey="5400" source-value="汽车机构工程师" result-key="0x830a" result-value="汽车机构工程师" />
+  <node source-key="5402" source-pkey="5400" source-value="汽车设计工程师" result-key="0x8303" result-value="车身设计工程师" />
+  <node source-key="5403" source-pkey="5400" source-value="汽车电子工程师" result-key="0x8304" result-value="汽车电子工程师" />
+  <node source-key="5414" source-pkey="5400" source-value="发动机/总装工程师" result-key="0x8302" result-value="汽车底盘 | 总装工程师" />
+  <node source-key="5412" source-pkey="5400" source-value="汽车项目管理" result-key="0x8309" result-value="汽车工程项目管理" />
+  <node source-key="5404" source-pkey="5400" source-value="汽车质量管理" result-key="0x8406" result-value="汽车质量管理 | 检验检测" />
+  <node source-key="5405" source-pkey="5400" source-value="汽车安全性能工程师" result-key="0x8308" result-value="安全性能工程师" />
+  <node source-key="5406" source-pkey="5400" source-value="汽车装配工艺工程师" result-key="0x8307" result-value="汽车装配工艺工程师" />
+  <node source-key="5411" source-pkey="5400" source-value="其他" result-key="0x830f" result-value="其他" />
+  <node source-key="5900" source-pkey="0" source-value="汽车销售与服务" result-key="0x8400" result-value="汽车销售与服务" />
+  <node source-key="5901" source-pkey="5900" source-value="4S店经理/维修站经理" result-key="0x8401" result-value="4S店管理" />
+  <node source-key="5903" source-pkey="5900" source-value="汽车销售/经纪人" result-key="0x8402" result-value="汽车销售" />
+  <node source-key="5907" source-pkey="5900" source-value="汽车修理工" result-key="0x8709" result-value="汽车维修 | 保养" />
+  <node source-key="5912" source-pkey="5900" source-value="汽车电工" result-key="0x830b" result-value="汽车电工" />
+  <node source-key="5913" source-pkey="5900" source-value="汽车钣金" result-key="0x8703" result-value="钳工 | 机修工 | 钣金工" />
+  <node source-key="5914" source-pkey="5900" source-value="汽车喷漆" result-key="0x8709" result-value="汽车维修 | 保养" />
+  <node source-key="5905" source-pkey="5900" source-value="汽车检验/检测" result-key="0x6308" result-value="汽车定损 | 车险理赔" />
+  <node source-key="5906" source-pkey="5900" source-value="汽车装饰美容" result-key="0x8408" result-value="汽车装饰美容" />
+  <node source-key="5908" source-pkey="5900" source-value="洗车工" result-key="0x8715" result-value="洗车工" />
+  <node source-key="5902" source-pkey="5900" source-value="售后服务/客户服务" result-key="0x830c" result-value="售后服务 | 客户服务" />
+  <node source-key="5904" source-pkey="5900" source-value="二手车评估师" result-key="0x8409" result-value="二手车评估师" />
+  <node source-key="5910" source-pkey="5900" source-value="加油站工作员" result-key="0x830d" result-value="加油站工作员" />
+  <node source-key="5911" source-pkey="5900" source-value="其他" result-key="0x830f" result-value="其他" />
+  <node source-key="3700" source-pkey="0" source-value="技工普工" result-key="0x8700" result-value="技工 | 操作工" />
+  <node source-key="3710" source-pkey="3700" source-value="普工/操作工" result-key="0x870a" result-value="普工 | 操作工" />
+  <node source-key="3701" source-pkey="3700" source-value="技工" result-key="0x870b" result-value="技工" />
+  <node source-key="3707" source-pkey="3700" source-value="叉车/铲车工" result-key="0x8707" result-value="铲车 | 叉车工" />
+  <node source-key="3715" source-pkey="3700" source-value="组装工" result-key="0x870c" result-value="组装工" />
+  <node source-key="3716" source-pkey="3700" source-value="包装工" result-key="0x870d" result-value="包装工" />
+  <node source-key="3703" source-pkey="3700" source-value="焊工" result-key="0x8704" result-value="电焊工 | 铆焊工" />
+  <node source-key="3717" source-pkey="3700" source-value="氩弧焊工" result-key="0x8704" result-value="电焊工 | 铆焊工" />
+  <node source-key="3706" source-pkey="3700" source-value="电工" result-key="0x8705" result-value="电工" />
+  <node source-key="3718" source-pkey="3700" source-value="电力线路工" result-key="0x870e" result-value="电力线路工" />
+  <node source-key="3719" source-pkey="3700" source-value="旋压工" result-key="0x8705" result-value="电工" />
+  <node source-key="3720" source-pkey="3700" source-value="仪表工" result-key="0x8710" result-value="仪表工" />
+  <node source-key="3721" source-pkey="3700" source-value="电镀工" result-key="0x8711" result-value="电镀工" />
+  <node source-key="3722" source-pkey="3700" source-value="喷塑工" result-key="0x8712" result-value="喷塑工" />
+  <node source-key="3709" source-pkey="3700" source-value="水工" result-key="0x8706" result-value="水工 | 木工 | 油漆工" />
+  <node source-key="3723" source-pkey="3700" source-value="木工" result-key="0x8706" result-value="水工 | 木工 | 油漆工" />
+  <node source-key="3724" source-pkey="3700" source-value="漆工" result-key="0x8706" result-value="水工 | 木工 | 油漆工" />
+  <node source-key="3708" source-pkey="3700" source-value="空调工" result-key="0x8708" result-value="空调工 | 电梯工 | 锅炉工" />
+  <node source-key="3725" source-pkey="3700" source-value="电梯工" result-key="0x8708" result-value="空调工 | 电梯工 | 锅炉工" />
+  <node source-key="3726" source-pkey="3700" source-value="锅炉工" result-key="0x8708" result-value="空调工 | 电梯工 | 锅炉工" />
+  <node source-key="3727" source-pkey="3700" source-value="学徒工" result-key="0x871a" result-value="学徒工" />
+  <node source-key="3713" source-pkey="3700" source-value="其他" result-key="0x871b" result-value="其他" />
+  <node source-key="3800" source-pkey="0" source-value="服装/纺织/皮革" result-key="0x8600" result-value="服装 | 纺织 | 皮革设计 | 生产" />
+  <node source-key="3812" source-pkey="3800" source-value="服装/纺织设计总监" result-key="0x860c" result-value="服装 | 纺织设计总监" />
+  <node source-key="3801" source-pkey="3800" source-value="服装/纺织设计" result-key="0x8601" result-value="服装 | 纺织品设计" />
+  <node source-key="3813" source-pkey="3800" source-value="服装/纺织/皮革工艺师" result-key="0x8603" result-value="服装 | 纺织 | 皮革工艺师" />
+  <node source-key="3802" source-pkey="3800" source-value="面料辅料开发" result-key="0x8607" result-value="面料辅料开发 | 采购" />
+  <node source-key="3803" source-pkey="3800" source-value="面料辅料采购" result-key="0x8607" result-value="面料辅料开发 | 采购" />
+  <node source-key="3804" source-pkey="3800" source-value="服装/纺织/皮革跟单" result-key="0x8608" result-value="服装 | 纺织 | 皮革跟单" />
+  <node source-key="3814" source-pkey="3800" source-value="服装领班" result-key="0xb119" result-value="质量管理" />
+  <node source-key="3805" source-pkey="3800" source-value="质量管理/验货员(QA/QC)" result-key="0xb119" result-value="质量管理" />
+  <node source-key="3806" source-pkey="3800" source-value="板房/楦头/底格出格师" result-key="0x8602" result-value="服装打样 | 制版" />
+  <node source-key="3811" source-pkey="3800" source-value="电脑放码员" result-key="0x8604" result-value="电脑放码员" />
+  <node source-key="3808" source-pkey="3800" source-value="纸样师/车板工" result-key="0x860d" result-value="纸样师 | 车板师" />
+  <node source-key="3809" source-pkey="3800" source-value="裁床" result-key="0x8605" result-value="裁床" />
+  <node source-key="3807" source-pkey="3800" source-value="打样/制版" result-key="0x8602" result-value="服装打样 | 制版" />
+  <node source-key="3815" source-pkey="3800" source-value="裁剪工" result-key="0x860e" result-value="剪裁工" />
+  <node source-key="3816" source-pkey="3800" source-value="缝纫工" result-key="0x860f" result-value="缝纫工" />
+  <node source-key="3817" source-pkey="3800" source-value="手缝工" result-key="0x860f" result-value="缝纫工" />
+  <node source-key="3818" source-pkey="3800" source-value="烫工" result-key="0x8619" result-value="其他" />
+  <node source-key="3819" source-pkey="3800" source-value="样衣工" result-key="0x8606" result-value="样衣工" />
+  <node source-key="3820" source-pkey="3800" source-value="纺织工" result-key="0x8610" result-value="纺织工 | 针织工" />
+  <node source-key="3821" source-pkey="3800" source-value="针织工" result-key="0x8610" result-value="纺织工 | 针织工" />
+  <node source-key="3822" source-pkey="3800" source-value="配色工" result-key="0x8611" result-value="配色工" />
+  <node source-key="3823" source-pkey="3800" source-value="印染工" result-key="0x8612" result-value="印染工" />
+  <node source-key="3824" source-pkey="3800" source-value="漂染工" result-key="0x8613" result-value="漂染工" />
+  <node source-key="3825" source-pkey="3800" source-value="挡车工" result-key="0x8614" result-value="挡车工" />
+  <node source-key="3826" source-pkey="3800" source-value="整经工" result-key="0x8616" result-value="整经工" />
+  <node source-key="3827" source-pkey="3800" source-value="细纱工" result-key="0x8618" result-value="细纱工" />
+  <node source-key="3828" source-pkey="3800" source-value="浆纱工" result-key="0x8615" result-value="浆纱工" />
+  <node source-key="3810" source-pkey="3800" source-value="其他" result-key="0x8619" result-value="其他" />
+  <node source-key="3900" source-pkey="0" source-value="采购" result-key="0x7100" result-value="采购 | 贸易" />
+  <node source-key="3901" source-pkey="3900" source-value="采购总监" result-key="0x7101" result-value="采购总监" />
+  <node source-key="3902" source-pkey="3900" source-value="采购经理" result-key="0x7102" result-value="采购经理 | 主管" />
+  <node source-key="3903" source-pkey="3900" source-value="采购主管" result-key="0x7102" result-value="采购经理 | 主管" />
+  <node source-key="3904" source-pkey="3900" source-value="采购员" result-key="0x7103" result-value="采购专员 | 助理" />
+  <node source-key="3905" source-pkey="3900" source-value="采购助理" result-key="0x7103" result-value="采购专员 | 助理" />
+  <node source-key="3908" source-pkey="3900" source-value="买手" result-key="0x7106" result-value="买手" />
+  <node source-key="3909" source-pkey="3900" source-value="供应商开发" result-key="0x7104" result-value="供应商开发" />
+  <node source-key="3907" source-pkey="3900" source-value="其他" result-key="0x710f" result-value="其他" />
+  <node source-key="4000" source-pkey="0" source-value="贸易" result-key="0x7100" result-value="采购 | 贸易" />
+  <node source-key="4001" source-pkey="4000" source-value="贸易/外贸经理/主管" result-key="0x7107" result-value="外贸 | 贸易经理 | 主管" />
+  <node source-key="4002" source-pkey="4000" source-value="贸易/外贸专员/助理" result-key="0x7108" result-value="外贸 | 贸易专员 | 助理" />
+  <node source-key="4003" source-pkey="4000" source-value="国内贸易人员" result-key="0x710e" result-value="国际贸易主管 | 专员" />
+  <node source-key="4004" source-pkey="4000" source-value="业务跟单经理" result-key="0x710b" result-value="业务跟单经理" />
+  <node source-key="4005" source-pkey="4000" source-value="高级业务跟单" result-key="0x710c" result-value="高级业务跟单" />
+  <node source-key="4006" source-pkey="4000" source-value="业务跟单" result-key="0x7109" result-value="贸易跟单" />
+  <node source-key="4007" source-pkey="4000" source-value="助理业务跟单" result-key="0x710d" result-value="助理业务跟单" />
+  <node source-key="4008" source-pkey="4000" source-value="其他" result-key="0x710f" result-value="其他" />
+  <node source-key="800" source-pkey="0" source-value="物流/仓储" result-key="0x7300" result-value="物流 | 仓储" />
+  <node source-key="827" source-pkey="800" source-value="物流总监" result-key="0x7301" result-value="物流总监" />
+  <node source-key="801" source-pkey="800" source-value="物流经理" result-key="0x7302" result-value="物流经理 | 主管" />
+  <node source-key="802" source-pkey="800" source-value="物流主管" result-key="0x3114" result-value="物流 | 仓储项目管理" />
+  <node source-key="814" source-pkey="800" source-value="物流专员/助理" result-key="0x7303" result-value="物流专员 | 助理" />
+  <node source-key="828" source-pkey="800" source-value="供应链总监" result-key="0x7314" result-value="供应链总监" />
+  <node source-key="825" source-pkey="800" source-value="供应链经理" result-key="0x7315" result-value="供应链经理 | 主管" />
+  <node source-key="826" source-pkey="800" source-value="供应链主管/专员" result-key="0x7315" result-value="供应链经理 | 主管" />
+  <node source-key="803" source-pkey="800" source-value="物料经理" result-key="0x7316" result-value="物料经理" />
+  <node source-key="804" source-pkey="800" source-value="物料主管/专员" result-key="0x7317" result-value="物料主管 | 专员" />
+  <node source-key="808" source-pkey="800" source-value="仓库经理/主管" result-key="0x730b" result-value="仓库经理 | 主管" />
+  <node source-key="809" source-pkey="800" source-value="仓库管理员" result-key="0x730c" result-value="仓库 | 物料管理员" />
+  <node source-key="834" source-pkey="800" source-value="订单处理员" result-key="0x731b" result-value="订单处理员" />
+  <node source-key="810" source-pkey="800" source-value="运输经理/主管" result-key="0x7305" result-value="运输经理 | 主管" />
+  <node source-key="833" source-pkey="800" source-value="项目经理/主管" result-key="0x7318" result-value="项目经理 | 主管" />
+  <node source-key="829" source-pkey="800" source-value="货运代理" result-key="0x7304" result-value="货运代理" />
+  <node source-key="830" source-pkey="800" source-value="集装箱业务" result-key="0x7308" result-value="集装箱业务" />
+  <node source-key="832" source-pkey="800" source-value="海关事务管理" result-key="0x7319" result-value="海关事务管理" />
+  <node source-key="811" source-pkey="800" source-value="报关与报检" result-key="0x7309" result-value="报关员" />
+  <node source-key="812" source-pkey="800" source-value="单证员" result-key="0x730a" result-value="单证员" />
+  <node source-key="815" source-pkey="800" source-value="船务/空运陆运操作" result-key="0x731a" result-value="船务 | 空运陆运操作" />
+  <node source-key="813" source-pkey="800" source-value="快递员" result-key="0x7306" result-value="快递员 | 速递员" />
+  <node source-key="831" source-pkey="800" source-value="调度员" result-key="0x730e" result-value="物流 | 仓储调度" />
+  <node source-key="835" source-pkey="800" source-value="安检员" result-key="0x720b" result-value="安检员" />
+  <node source-key="823" source-pkey="800" source-value="理货员" result-key="0xb10a" result-value="理货员" />
+  <node source-key="836" source-pkey="800" source-value="搬运工" result-key="0xb607" result-value="搬运工" />
+  <node source-key="824" source-pkey="800" source-value="其他" result-key="0x731d" result-value="其他" />
+  <node source-key="4100" source-pkey="0" source-value="生物/制药/医疗器械" result-key="0x8800" result-value="生物 | 制药 | 医疗器械" />
+  <node source-key="4101" source-pkey="4100" source-value="生物工程/生物制药" result-key="0x880b" result-value="生物工程 | 生物制药" />
+  <node source-key="4116" source-pkey="4100" source-value="化学分析测试员" result-key="0x8903" result-value="化学分析" />
+  <node source-key="4103" source-pkey="4100" source-value="医药技术研发管理人员" result-key="0x8812" result-value="医药技术研发管理人员" />
+  <node source-key="4104" source-pkey="4100" source-value="医药技术研发人员" result-key="0x8819" result-value="医药技术研发人员" />
+  <node source-key="4126" source-pkey="4100" source-value="医药学术推广" result-key="0x8807" result-value="医药学术推广" />
+  <node source-key="4105" source-pkey="4100" source-value="临床研究员" result-key="0x880e" result-value="临床研究员" />
+  <node source-key="4106" source-pkey="4100" source-value="临床协调员" result-key="0x880f" result-value="临床协调员" />
+  <node source-key="4123" source-pkey="4100" source-value="临床数据分析员" result-key="0x8810" result-value="临床数据分析员" />
+  <node source-key="4107" source-pkey="4100" source-value="药品注册" result-key="0x8813" result-value="药品注册" />
+  <node source-key="4108" source-pkey="4100" source-value="药品生产/质量管理" result-key="0x8815" result-value="药品生产 | 质量管理" />
+  <node source-key="4109" source-pkey="4100" source-value="药品市场推广经理" result-key="0x8803" result-value="药品市场推广经理 | 主管" />
+  <node source-key="4110" source-pkey="4100" source-value="药品市场推广主管/专员" result-key="0x8804" result-value="药品市场推广专员 | 助理" />
+  <node source-key="4120" source-pkey="4100" source-value="医药招商" result-key="0x8808" result-value="医药招商" />
+  <node source-key="4121" source-pkey="4100" source-value="政府事务管理" result-key="0x1607" result-value="政府事务管理" />
+  <node source-key="4122" source-pkey="4100" source-value="招投标管理" result-key="0x880a" result-value="医药项目招投标管理" />
+  <node source-key="4111" source-pkey="4100" source-value="医药销售经理/主管" result-key="0x8802" result-value="医药销售经理 | 主管" />
+  <node source-key="4112" source-pkey="4100" source-value="医药销售代表" result-key="0x8801" result-value="医药代表" />
+  <node source-key="4117" source-pkey="4100" source-value="医疗器械注册" result-key="0x8814" result-value="医疗器械注册" />
+  <node source-key="4124" source-pkey="4100" source-value="医疗器械研发" result-key="0x880d" result-value="医疗器械研发" />
+  <node source-key="4118" source-pkey="4100" source-value="医疗器械生产/质量管理" result-key="0x8816" result-value="医疗器械生产 | 质量管理" />
+  <node source-key="4113" source-pkey="4100" source-value="医疗器械市场推广" result-key="0x8806" result-value="医疗器械推广" />
+  <node source-key="4125" source-pkey="4100" source-value="医疗器械销售经理/主管" result-key="0x8802" result-value="医药销售经理 | 主管" />
+  <node source-key="4114" source-pkey="4100" source-value="医疗器械销售代表" result-key="0x8805" result-value="医疗器械销售" />
+  <node source-key="4119" source-pkey="4100" source-value="医疗器械维修人员" result-key="0x8817" result-value="医疗器械维修 | 保养" />
+  <node source-key="4115" source-pkey="4100" source-value="其他" result-key="0x881a" result-value="其他" />
+  <node source-key="5500" source-pkey="0" source-value="化工" result-key="0x8900" result-value="化工" />
+  <node source-key="5501" source-pkey="5500" source-value="化工技术应用/化工工程师" result-key="0x8901" result-value="化工工程师" />
+  <node source-key="5502" source-pkey="5500" source-value="化工实验室研究员/技术员" result-key="0x8909" result-value="化学实验室技术员 | 研究员" />
+  <node source-key="5503" source-pkey="5500" source-value="涂料研发工程师" result-key="0x8907" result-value="油漆 | 化工涂料研发" />
+  <node source-key="5504" source-pkey="5500" source-value="配色技术员" result-key="0x890c" result-value="配色技术员" />
+  <node source-key="5505" source-pkey="5500" source-value="塑料工程师" result-key="0x8908" result-value="塑料工程师" />
+  <node source-key="5506" source-pkey="5500" source-value="化妆品研发" result-key="0x890d" result-value="化妆品研发" />
+  <node source-key="5507" source-pkey="5500" source-value="食品/饮料研发" result-key="0xb305" result-value="食品 | 饮料研发" />
+  <node source-key="5509" source-pkey="5500" source-value="造纸研发" result-key="0x890e" result-value="造纸研发" />
+  <node source-key="5508" source-pkey="5500" source-value="其他" result-key="0x8910" result-value="其他" />
+  <node source-key="1300" source-pkey="0" source-value="医院/医疗/护理" result-key="0xb500" result-value="医院 | 医疗 | 护理" />
+  <node source-key="1302" source-pkey="1300" source-value="医院管理人员" result-key="0xb501" result-value="医疗管理人员" />
+  <node source-key="1328" source-pkey="1300" source-value="综合门诊/全科医生" result-key="0xb502" result-value="综合门诊 | 全科医生" />
+  <node source-key="1301" source-pkey="1300" source-value="内科医生" result-key="0xb503" result-value="内科医生" />
+  <node source-key="1317" source-pkey="1300" source-value="外科医生" result-key="0xb504" result-value="外科医生" />
+  <node source-key="1318" source-pkey="1300" source-value="专科医生" result-key="0xb518" result-value="专科医生" />
+  <node source-key="1319" source-pkey="1300" source-value="牙科医生" result-key="0xb506" result-value="牙科医生" />
+  <node source-key="1320" source-pkey="1300" source-value="美容整形师" result-key="0xb40e" result-value="美容整形师" />
+  <node source-key="1308" source-pkey="1300" source-value="麻醉医生" result-key="0xb509" result-value="麻醉医生" />
+  <node source-key="1327" source-pkey="1300" source-value="放射科医师" result-key="0xb50c" result-value="医学影像 | 放射科医师" />
+  <node source-key="1321" source-pkey="1300" source-value="理疗师" result-key="0xb50f" result-value="理疗师" />
+  <node source-key="1322" source-pkey="1300" source-value="中医科医生" result-key="0xb508" result-value="中医科医生" />
+  <node source-key="1313" source-pkey="1300" source-value="针灸、推拿" result-key="0xb513" result-value="针灸 | 推拿" />
+  <node source-key="1325" source-pkey="1300" source-value="儿科医生" result-key="0xb505" result-value="儿科医生" />
+  <node source-key="1309" source-pkey="1300" source-value="心理医生" result-key="0xb50a" result-value="心理医生" />
+  <node source-key="1314" source-pkey="1300" source-value="营养师" result-key="0xb315" result-value="营养师" />
+  <node source-key="1304" source-pkey="1300" source-value="药库主任/药剂师" result-key="0xb50e" result-value="药房管理 | 药剂师" />
+  <node source-key="1310" source-pkey="1300" source-value="医药学检验" result-key="0xb50d" result-value="化验 | 检验科医师" />
+  <node source-key="1323" source-pkey="1300" source-value="公共卫生/疾病控制" result-key="0xb515" result-value="公共卫生 | 疾病监控" />
+  <node source-key="1324" source-pkey="1300" source-value="护理主任/护士长" result-key="0xb516" result-value="护理主任 | 护士长" />
+  <node source-key="1305" source-pkey="1300" source-value="护士/护理人员" result-key="0xb511" result-value="护士 | 护理人员" />
+  <node source-key="1315" source-pkey="1300" source-value="兽医" result-key="0xb510" result-value="兽医" />
+  <node source-key="1326" source-pkey="1300" source-value="验光师" result-key="0xb50b" result-value="眼科医生 | 验光师" />
+  <node source-key="1311" source-pkey="1300" source-value="其他" result-key="0xb519" result-value="其他" />
+  <node source-key="4200" source-pkey="0" source-value="广告" result-key="0x1700" result-value="广告 | 会展" />
+  <node source-key="4201" source-pkey="4200" source-value="广告客户总监/副总监" result-key="0x1707" result-value="广告客户总监" />
+  <node source-key="4202" source-pkey="4200" source-value="广告客户经理" result-key="0x1708" result-value="广告客户经理" />
+  <node source-key="4203" source-pkey="4200" source-value="广告客户主管/专员" result-key="0x1709" result-value="广告客户主管" />
+  <node source-key="4204" source-pkey="4200" source-value="广告创意/设计经理" result-key="0x1702" result-value="广告创意 | 设计经理 | 主管" />
+  <node source-key="4205" source-pkey="4200" source-value="广告创意总监" result-key="0x1701" result-value="广告创意 | 设计总监" />
+  <node source-key="4206" source-pkey="4200" source-value="广告创意/设计主管/专员" result-key="0x1703" result-value="广告创意 | 设计师" />
+  <node source-key="4212" source-pkey="4200" source-value="广告制作执行" result-key="0x1706" result-value="广告制作执行" />
+  <node source-key="4211" source-pkey="4200" source-value="美术指导" result-key="0x1705" result-value="广告美术指导" />
+  <node source-key="4207" source-pkey="4200" source-value="文案/策划" result-key="0x9112" result-value="文案策划" />
+  <node source-key="4208" source-pkey="4200" source-value="企业/业务发展经理" result-key="0x1710" result-value="企业 | 业务发展经理" />
+  <node source-key="4209" source-pkey="4200" source-value="企业策划人员" result-key="0x170c" result-value="会展策划 | 设计" />
+  <node source-key="4210" source-pkey="4200" source-value="其他" result-key="0x1711" result-value="其他" />
+  <node source-key="4300" source-pkey="0" source-value="公关/媒介" result-key="0x1600" result-value="公关 | 媒介" />
+  <node source-key="4315" source-pkey="4300" source-value="公关总监" result-key="0x1601" result-value="公关总监" />
+  <node source-key="4301" source-pkey="4300" source-value="公关经理" result-key="0x1602" result-value="公关经理 | 主管" />
+  <node source-key="4302" source-pkey="4300" source-value="公关主管" result-key="0x1602" result-value="公关经理 | 主管" />
+  <node source-key="4303" source-pkey="4300" source-value="公关专员" result-key="0x1603" result-value="公关专员 | 助理" />
+  <node source-key="4304" source-pkey="4300" source-value="会务/会展经理" result-key="0x170d" result-value="会务经理 | 主管" />
+  <node source-key="4305" source-pkey="4300" source-value="会务/会展主管" result-key="0x170d" result-value="会务经理 | 主管" />
+  <node source-key="4306" source-pkey="4300" source-value="会务/会展专员" result-key="0x170e" result-value="会务专员 | 助理" />
+  <node source-key="4307" source-pkey="4300" source-value="媒介经理" result-key="0x1604" result-value="媒介经理 | 主管" />
+  <node source-key="4308" source-pkey="4300" source-value="媒介主管" result-key="0x1605" result-value="媒介专员 | 助理" />
+  <node source-key="4309" source-pkey="4300" source-value="媒介专员" result-key="0x1606" result-value="媒介策划 | 管理" />
+  <node source-key="4310" source-pkey="4300" source-value="公关/媒介助理" result-key="0x1605" result-value="媒介专员 | 助理" />
+  <node source-key="4312" source-pkey="4300" source-value="媒介销售" result-key="0x1608" result-value="媒介销售" />
+  <node source-key="4313" source-pkey="4300" source-value="活动策划" result-key="0x1513" result-value="活动策划" />
+  <node source-key="4314" source-pkey="4300" source-value="活动执行" result-key="0x1514" result-value="活动执行" />
+  <node source-key="4311" source-pkey="4300" source-value="其他" result-key="0x160a" result-value="其他" />
+  <node source-key="300" source-pkey="0" source-value="市场/营销" result-key="0x1500" result-value="市场" />
+  <node source-key="301" source-pkey="300" source-value="市场/营销/拓展总监" result-key="0x1501" result-value="市场总监" />
+  <node source-key="302" source-pkey="300" source-value="市场/营销/拓展经理" result-key="0x1505" result-value="市场营销经理" />
+  <node source-key="303" source-pkey="300" source-value="市场/营销/拓展主管" result-key="0x1506" result-value="市场营销主管" />
+  <node source-key="304" source-pkey="300" source-value="市场/营销/拓展专员" result-key="0x1507" result-value="市场营销专员 | 助理" />
+  <node source-key="305" source-pkey="300" source-value="市场助理" result-key="0x1504" result-value="市场专员 | 助理" />
+  <node source-key="324" source-pkey="300" source-value="市场分析/调研人员" result-key="0x151b" result-value="市场调研与分析" />
+  <node source-key="306" source-pkey="300" source-value="产品/品牌经理" result-key="0x150d" result-value="品牌经理" />
+  <node source-key="307" source-pkey="300" source-value="产品/品牌主管" result-key="0x150e" result-value="品牌主管" />
+  <node source-key="330" source-pkey="300" source-value="产品/品牌专员" result-key="0x150f" result-value="品牌专员 | 助理" />
+  <node source-key="308" source-pkey="300" source-value="市场通路经理/主管" result-key="0x1510" result-value="市场策划 | 企划经理 | 主管" />
+  <node source-key="335" source-pkey="300" source-value="市场通路专员" result-key="0x151d" result-value="市场通路专员" />
+  <node source-key="336" source-pkey="300" source-value="市场企划经理/主管" result-key="0x1510" result-value="市场策划 | 企划经理 | 主管" />
+  <node source-key="337" source-pkey="300" source-value="市场企划专员" result-key="0x1511" result-value="市场策划 | 企划专员 | 助理" />
+  <node source-key="310" source-pkey="300" source-value="促销经理" result-key="0x151e" result-value="促销经理" />
+  <node source-key="311" source-pkey="300" source-value="促销主管/督导" result-key="0xb10b" result-value="促销主管 | 督导" />
+  <node source-key="312" source-pkey="300" source-value="促销员/导购" result-key="0xb10c" result-value="促销员" />
+  <node source-key="338" source-pkey="300" source-value="选址拓展/新店开发" result-key="0x151a" result-value="选址拓展 | 新店开发" />
+  <node source-key="329" source-pkey="300" source-value="其他" result-key="0x151f" result-value="其他" />
+  <node source-key="4400" source-pkey="0" source-value="影视/媒体" result-key="0x9100" result-value="影视 | 媒体 | 出版 | 印刷" />
+  <node source-key="4401" source-pkey="4400" source-value="影视策划/制作人员" result-key="0x911d" result-value="影视策划 | 制作人员" />
+  <node source-key="4402" source-pkey="4400" source-value="导演/编导" result-key="0x9101" result-value="导演 | 编导" />
+  <node source-key="4403" source-pkey="4400" source-value="艺术/设计总监" result-key="0x911c" result-value="艺术 | 设计总监" />
+  <node source-key="4414" source-pkey="4400" source-value="艺术指导/舞台美术设计" result-key="0x9103" result-value="艺术指导 | 舞美设计" />
+  <node source-key="4404" source-pkey="4400" source-value="经纪人/星探" result-key="0x910b" result-value="经纪人 | 星探" />
+  <node source-key="4406" source-pkey="4400" source-value="摄影师/摄像师" result-key="0x9104" result-value="摄影师 | 摄像师" />
+  <node source-key="4411" source-pkey="4400" source-value="后期制作" result-key="0x910a" result-value="后期制作" />
+  <node source-key="4407" source-pkey="4400" source-value="音效师" result-key="0x9109" result-value="音效师" />
+  <node source-key="4408" source-pkey="4400" source-value="配音员" result-key="0x9108" result-value="配音员" />
+  <node source-key="4415" source-pkey="4400" source-value="灯光师" result-key="0x911b" result-value="灯光师" />
+  <node source-key="4412" source-pkey="4400" source-value="放映经理/主管" result-key="0x910c" result-value="放映管理" />
+  <node source-key="4413" source-pkey="4400" source-value="放映员" result-key="0x911a" result-value="放映员" />
+  <node source-key="4410" source-pkey="4400" source-value="其他" result-key="0x912d" result-value="其他" />
+  <node source-key="4500" source-pkey="0" source-value="编辑出版" result-key="0x9100" result-value="影视 | 媒体 | 出版 | 印刷" />
+  <node source-key="4501" source-pkey="4500" source-value="总编/副总编" result-key="0x3309" result-value="总编 | 副总编" />
+  <node source-key="4502" source-pkey="4500" source-value="编辑" result-key="0x910e" result-value="文字编辑 | 组稿" />
+  <node source-key="4517" source-pkey="4500" source-value="作家/撰稿人" result-key="0x910d" result-value="作家 | 编剧 | 撰稿人" />
+  <node source-key="4503" source-pkey="4500" source-value="记者" result-key="0x9110" result-value="记者 | 采编" />
+  <node source-key="4516" source-pkey="4500" source-value="电话采编" result-key="0x9111" result-value="电话采编" />
+  <node source-key="4504" source-pkey="4500" source-value="美术编辑" result-key="0x910f" result-value="美术编辑 | 美术设计" />
+  <node source-key="4505" source-pkey="4500" source-value="排版设计" result-key="0x9115" result-value="排版设计" />
+  <node source-key="4507" source-pkey="4500" source-value="出版/发行" result-key="0x9118" result-value="编辑出版" />
+  <node source-key="4508" source-pkey="4500" source-value="其他" result-key="0x912d" result-value="其他" />
+  <node source-key="900" source-pkey="0" source-value="艺术/设计" result-key="0x9200" result-value="艺术 | 设计" />
+  <node source-key="930" source-pkey="900" source-value="平面设计总监" result-key="0x9217" result-value="平面设计总监" />
+  <node source-key="931" source-pkey="900" source-value="平面设计经理/主管" result-key="0x9218" result-value="平面设计经理 | 主管" />
+  <node source-key="904" source-pkey="900" source-value="平面设计师" result-key="0x9206" result-value="平面设计" />
+  <node source-key="932" source-pkey="900" source-value="绘画" result-key="0x9203" result-value="绘画" />
+  <node source-key="924" source-pkey="900" source-value="动画/3D设计" result-key="0x9207" result-value="三维 | 3D设计 | 制作" />
+  <node source-key="933" source-pkey="900" source-value="原画师" result-key="0x9204" result-value="原画师" />
+  <node source-key="925" source-pkey="900" source-value="展览/展示/店面设计" result-key="0x9213" result-value="店面 | 展览 | 展示 | 陈列设计" />
+  <node source-key="926" source-pkey="900" source-value="多媒体设计" result-key="0x920d" result-value="多媒体 | 动画设计" />
+  <node source-key="927" source-pkey="900" source-value="包装设计" result-key="0x920e" result-value="包装设计" />
+  <node source-key="919" source-pkey="900" source-value="工业/产品设计" result-key="0x9214" result-value="工业设计" />
+  <node source-key="920" source-pkey="900" source-value="工艺品/珠宝设计鉴定" result-key="0x9211" result-value="工艺品 | 珠宝设计" />
+  <node source-key="928" source-pkey="900" source-value="家具/家居用品设计" result-key="0x920f" result-value="家具设计" />
+  <node source-key="929" source-pkey="900" source-value="玩具设计" result-key="0x9212" result-value="玩具设计" />
+  <node source-key="921" source-pkey="900" source-value="其他" result-key="0x9219" result-value="其他" />
+  <node source-key="2100" source-pkey="0" source-value="建筑工程与装潢" result-key="0x5200" result-value="土木 | 建筑 | 装修 | 市政工程" />
+  <node source-key="2123" source-pkey="2100" source-value="高级建筑工程师/总工" result-key="0x5201" result-value="高级建筑工程师 | 总工" />
+  <node source-key="2101" source-pkey="2100" source-value="建筑工程师" result-key="0x5202" result-value="建筑工程师" />
+  <node source-key="2131" source-pkey="2100" source-value="建筑设计师" result-key="0x5203" result-value="建筑设计师" />
+  <node source-key="2132" source-pkey="2100" source-value="市政工程师" result-key="0x5211" result-value="市政工程师" />
+  <node source-key="2102" source-pkey="2100" source-value="结构/土木/土建工程师" result-key="0x5204" result-value="土木 | 土建 | 结构工程师" />
+  <node source-key="2118" source-pkey="2100" source-value="公路/桥梁/港口/隧道工程" result-key="0x5208" result-value="道路 | 桥梁 | 隧道工程技术" />
+  <node source-key="2119" source-pkey="2100" source-value="岩土工程" result-key="0x5205" result-value="岩土工程" />
+  <node source-key="2125" source-pkey="2100" source-value="楼宇自动化" result-key="0x5210" result-value="城市规划与设计" />
+  <node source-key="2103" source-pkey="2100" source-value="建筑机电工程师" result-key="0x5210" result-value="城市规划与设计" />
+  <node source-key="2126" source-pkey="2100" source-value="智能大厦/综合布线/安防/弱电" result-key="0x520c" result-value="智能大厦 | 布线 | 弱电 | 安防" />
+  <node source-key="2104" source-pkey="2100" source-value="给排水/暖通工程" result-key="0x520b" result-value="给排水 | 暖通 | 空调工程" />
+  <node source-key="2122" source-pkey="2100" source-value="幕墙工程师" result-key="0x520e" result-value="幕墙工程师" />
+  <node source-key="2109" source-pkey="2100" source-value="规划与设计" result-key="0x5210" result-value="城市规划与设计" />
+  <node source-key="2108" source-pkey="2100" source-value="室内设计" result-key="0x520f" result-value="园林 | 景观设计" />
+  <node source-key="2117" source-pkey="2100" source-value="园艺/园林/景观设计" result-key="0x520f" result-value="园林 | 景观设计" />
+  <node source-key="2120" source-pkey="2100" source-value="测绘/测量" result-key="0x5207" result-value="建筑工程测绘 | 测量" />
+  <node source-key="2110" source-pkey="2100" source-value="建筑制图/模型/渲染" result-key="0x5206" result-value="建筑制图" />
+  <node source-key="2127" source-pkey="2100" source-value="开发报建" result-key="0x5104" result-value="房地产项目开发报建" />
+  <node source-key="2105" source-pkey="2100" source-value="工程造价师/预结算经理" result-key="0x5213" result-value="工程造价 | 预结算" />
+  <node source-key="2124" source-pkey="2100" source-value="预结算员" result-key="0x5213" result-value="工程造价 | 预结算" />
+  <node source-key="2106" source-pkey="2100" source-value="建筑工程管理/项目经理" result-key="0x521e" result-value="其他" />
+  <node source-key="2133" source-pkey="2100" source-value="建筑项目助理" result-key="0x521e" result-value="其他" />
+  <node source-key="2121" source-pkey="2100" source-value="建筑工程验收" result-key="0x521e" result-value="其他" />
+  <node source-key="2107" source-pkey="2100" source-value="工程监理" result-key="0x5212" result-value="工程监理 | 质量管理" />
+  <node source-key="2128" source-pkey="2100" source-value="合同管理" result-key="0xa308" result-value="合同管理" />
+  <node source-key="2129" source-pkey="2100" source-value="安全员" result-key="0x5218" result-value="建筑工程安全管理" />
+  <node source-key="2130" source-pkey="2100" source-value="资料员" result-key="0x5214" result-value="工程资料管理" />
+  <node source-key="2111" source-pkey="2100" source-value="建筑安装施工员" result-key="0x5217" result-value="施工员" />
+  <node source-key="2134" source-pkey="2100" source-value="砌筑工" result-key="0x521e" result-value="其他" />
+  <node source-key="2135" source-pkey="2100" source-value="瓦工" result-key="0x8717" result-value="瓦工" />
+  <node source-key="2136" source-pkey="2100" source-value="混凝土工" result-key="0x521e" result-value="其他" />
+  <node source-key="2137" source-pkey="2100" source-value="浇注工" result-key="0x521e" result-value="其他" />
+  <node source-key="2138" source-pkey="2100" source-value="钢筋工" result-key="0x8719" result-value="钢筋工" />
+  <node source-key="2139" source-pkey="2100" source-value="木工" result-key="0x521e" result-value="其他" />
+  <node source-key="2140" source-pkey="2100" source-value="油漆工" result-key="0x521e" result-value="其他" />
+  <node source-key="2141" source-pkey="2100" source-value="电梯工" result-key="0x8713" result-value="电梯工" />
+  <node source-key="2142" source-pkey="2100" source-value="抹灰工" result-key="0x521e" result-value="其他" />
+  <node source-key="2143" source-pkey="2100" source-value="施工开料工" result-key="0x521e" result-value="其他" />
+  <node source-key="2144" source-pkey="2100" source-value="管道/暖通" result-key="0x521e" result-value="其他" />
+  <node source-key="2145" source-pkey="2100" source-value="工长" result-key="0x5216" result-value="施工队长" />
+  <node source-key="2116" source-pkey="2100" source-value="其他" result-key="0x521e" result-value="其他" />
+  <node source-key="4600" source-pkey="0" source-value="房地产开发" result-key="0x5100" result-value="房地产开发 | 经纪 | 中介" />
+  <node source-key="4601" source-pkey="4600" source-value="房地产项目/开发/策划经理" result-key="0x5101" result-value="房地产项目策划经理 | 主管" />
+  <node source-key="4602" source-pkey="4600" source-value="房地产项目/开发/策划主管/专员" result-key="0x5102" result-value="房地产项目策划专员 | 助理" />
+  <node source-key="4603" source-pkey="4600" source-value="房产项目配套工程师" result-key="0x5105" result-value="房地产项目配套工程师" />
+  <node source-key="4608" source-pkey="4600" source-value="房地产项目招投标" result-key="0x5103" result-value="房地产项目招投标" />
+  <node source-key="4610" source-pkey="4600" source-value="房地产投资分析" result-key="0x5111" result-value="其他" />
+  <node source-key="4611" source-pkey="4600" source-value="房地产资产管理" result-key="0x510c" result-value="房地产资产管理" />
+  <node source-key="4612" source-pkey="4600" source-value="监察人员" result-key="0x510d" result-value="监察人员" />
+  <node source-key="4607" source-pkey="4600" source-value="其他" result-key="0x5111" result-value="其他" />
+  <node source-key="6000" source-pkey="0" source-value="房地产销售与中介" result-key="0x5100" result-value="房地产开发 | 经纪 | 中介" />
+  <node source-key="6009" source-pkey="6000" source-value="房地产销售经理/主管" result-key="0x5106" result-value="房地产销售经理" />
+  <node source-key="6010" source-pkey="6000" source-value="房地产销售" result-key="0x5108" result-value="房地产销售 | 置业顾问" />
+  <node source-key="6001" source-pkey="6000" source-value="房地产中介/置业顾问" result-key="0x510a" result-value="房地产中介 | 交易" />
+  <node source-key="6002" source-pkey="6000" source-value="房地产评估" result-key="0x5109" result-value="房地产评估" />
+  <node source-key="6004" source-pkey="6000" source-value="房地产店长/经理" result-key="0x510e" result-value="地产店长 | 经理" />
+  <node source-key="6007" source-pkey="6000" source-value="房地产内勤" result-key="0x510f" result-value="房地产内勤" />
+  <node source-key="6006" source-pkey="6000" source-value="房地产客服" result-key="0x5110" result-value="房地产客服" />
+  <node source-key="6008" source-pkey="6000" source-value="其他" result-key="0x5111" result-value="其他" />
+  <node source-key="4700" source-pkey="0" source-value="物业管理" result-key="0x5300" result-value="物业管理" />
+  <node source-key="4702" source-pkey="4700" source-value="物业管理经理" result-key="0x5301" result-value="物业经理 | 主管" />
+  <node source-key="4714" source-pkey="4700" source-value="物业管理主管" result-key="0x5301" result-value="物业经理 | 主管" />
+  <node source-key="4703" source-pkey="4700" source-value="物业管理专员/助理" result-key="0x5302" result-value="物业管理专员 | 助理" />
+  <node source-key="4705" source-pkey="4700" source-value="物业设施管理人员" result-key="0x5302" result-value="物业管理专员 | 助理" />
+  <node source-key="4715" source-pkey="4700" source-value="物业机电维修工" result-key="0x5304" result-value="物业维修" />
+  <node source-key="4706" source-pkey="4700" source-value="物业维修员" result-key="0x5304" result-value="物业维修" />
+  <node source-key="4701" source-pkey="4700" source-value="高级物业顾问/物业顾问" result-key="0x5305" result-value="物业顾问" />
+  <node source-key="4704" source-pkey="4700" source-value="物业招商/租赁/租售" result-key="0x5303" result-value="物业租赁 | 销售" />
+  <node source-key="4709" source-pkey="4700" source-value="停车管理员" result-key="0x5306" result-value="物业招商管理" />
+  <node source-key="4710" source-pkey="4700" source-value="保安经理" result-key="0x5308" result-value="其他" />
+  <node source-key="4711" source-pkey="4700" source-value="保安人员" result-key="0x5308" result-value="其他" />
+  <node source-key="4708" source-pkey="4700" source-value="物业机电工程师" result-key="0x5308" result-value="其他" />
+  <node source-key="4712" source-pkey="4700" source-value="保洁" result-key="0x5308" result-value="其他" />
+  <node source-key="4713" source-pkey="4700" source-value="绿化工" result-key="0x5308" result-value="其他" />
+  <node source-key="4707" source-pkey="4700" source-value="其他" result-key="0x5308" result-value="其他" />
+  <node source-key="600" source-pkey="0" source-value="人力资源" result-key="0x2200" result-value="人力资源" />
+  <node source-key="601" source-pkey="600" source-value="人事总监" result-key="0x2201" result-value="人力资源总监" />
+  <node source-key="602" source-pkey="600" source-value="人事经理" result-key="0x2202" result-value="人力资源经理" />
+  <node source-key="603" source-pkey="600" source-value="人事主管" result-key="0x2203" result-value="人力资源主管" />
+  <node source-key="604" source-pkey="600" source-value="人事专员" result-key="0x2204" result-value="人力资源专员 | 助理" />
+  <node source-key="605" source-pkey="600" source-value="人事助理" result-key="0x2204" result-value="人力资源专员 | 助理" />
+  <node source-key="606" source-pkey="600" source-value="招聘经理/主管" result-key="0x2207" result-value="招聘经理 | 主管" />
+  <node source-key="626" source-pkey="600" source-value="招聘专员/助理" result-key="0x2208" result-value="招聘专员 | 助理" />
+  <node source-key="607" source-pkey="600" source-value="薪资福利经理/主管" result-key="0x2209" result-value="薪酬福利经理 | 主管" />
+  <node source-key="608" source-pkey="600" source-value="薪资福利专员/助理" result-key="0x220a" result-value="薪酬福利专员 | 助理" />
+  <node source-key="627" source-pkey="600" source-value="绩效考核经理/主管" result-key="0x220b" result-value="绩效考核经理 | 主管" />
+  <node source-key="628" source-pkey="600" source-value="绩效考核专员/助理" result-key="0x220c" result-value="绩效考核专员 | 助理" />
+  <node source-key="609" source-pkey="600" source-value="培训经理/主管" result-key="0x2205" result-value="培训经理 | 主管" />
+  <node source-key="610" source-pkey="600" source-value="培训专员/助理/培训师" result-key="0x2206" result-value="培训专员 | 助理" />
+  <node source-key="629" source-pkey="600" source-value="企业文化/员工关系/工会管理" result-key="0x220d" result-value="员工关系 | 企业文化 | 工会" />
+  <node source-key="630" source-pkey="600" source-value="人力资源信息系统专员" result-key="0x220f" result-value="人事信息系统（HRIS）管理" />
+  <node source-key="625" source-pkey="600" source-value="其他" result-key="0x2211" result-value="其他" />
+  <node source-key="700" source-pkey="0" source-value="高级管理" result-key="0x3300" result-value="高级管理" />
+  <node source-key="701" source-pkey="700" source-value="首席执行官CEO/总裁/总经理" result-key="0x3301" result-value="首席执行官CEO | 总裁 | 总经理" />
+  <node source-key="707" source-pkey="700" source-value="首席运营官COO" result-key="0x3302" result-value="首席运营官COO" />
+  <node source-key="702" source-pkey="700" source-value="副总经理/副总裁" result-key="0x3305" result-value="副总裁 | 副总经理" />
+  <node source-key="704" source-pkey="700" source-value="合伙人" result-key="0x330d" result-value="合伙人" />
+  <node source-key="705" source-pkey="700" source-value="总监/部门经理" result-key="0x3307" result-value="部门 | 事业部管理" />
+  <node source-key="710" source-pkey="700" source-value="策略发展总监" result-key="0x3311" result-value="策略发展总监" />
+  <node source-key="711" source-pkey="700" source-value="企业秘书/董事会秘书" result-key="0x3310" result-value="企业秘书 | 董事会秘书" />
+  <node source-key="712" source-pkey="700" source-value="投资者关系" result-key="0x330f" result-value="投资者关系" />
+  <node source-key="708" source-pkey="700" source-value="办事处首席代表" result-key="0x330e" result-value="办事处首席代表" />
+  <node source-key="709" source-pkey="700" source-value="办事处/分公司/分支机构经理" result-key="0x330e" result-value="办事处首席代表" />
+  <node source-key="703" source-pkey="700" source-value="总裁助理/总经理助理" result-key="0x3308" result-value="总裁助理 | 总经理助理" />
+  <node source-key="706" source-pkey="700" source-value="其他" result-key="0x3313" result-value="其他" />
+  <node source-key="2300" source-pkey="0" source-value="行政/后勤" result-key="0x2300" result-value="行政 | 后勤 | 文秘" />
+  <node source-key="2301" source-pkey="2300" source-value="行政总监" result-key="0x2301" result-value="行政总监" />
+  <node source-key="2302" source-pkey="2300" source-value="行政经理/主管/办公室主任" result-key="0x2302" result-value="行政经理 | 主管 | 办公室主任" />
+  <node source-key="2303" source-pkey="2300" source-value="行政专员/助理" result-key="0x2303" result-value="行政专员 | 助理" />
+  <node source-key="2304" source-pkey="2300" source-value="经理助理/秘书" result-key="0x2304" result-value="助理 | 秘书 | 文员" />
+  <node source-key="2305" source-pkey="2300" source-value="前台接待/总机/接待生" result-key="0x2305" result-value="前台 | 总机 | 接待" />
+  <node source-key="2307" source-pkey="2300" source-value="图书管理员/资料管理员" result-key="0x2306" result-value="文档 | 资料管理" />
+  <node source-key="2308" source-pkey="2300" source-value="电脑操作员/打字员" result-key="0x2307" result-value="电脑操作 | 打字 | 录入员" />
+  <node source-key="2306" source-pkey="2300" source-value="后勤" result-key="0x2308" result-value="后勤人员" />
+  <node source-key="2309" source-pkey="2300" source-value="其他" result-key="0x230c" result-value="其他" />
+  <node source-key="1400" source-pkey="0" source-value="咨询/顾问" result-key="0xa100" result-value="咨询 | 顾问 | 调研 | 数据分析" />
+  <node source-key="1401" source-pkey="1400" source-value="专业顾问" result-key="0xa104" result-value="专业顾问" />
+  <node source-key="1402" source-pkey="1400" source-value="咨询总监" result-key="0xa101" result-value="咨询总监" />
+  <node source-key="1403" source-pkey="1400" source-value="咨询经理" result-key="0xa102" result-value="咨询经理 | 主管" />
+  <node source-key="1406" source-pkey="1400" source-value="专业培训师" result-key="0xa10b" result-value="其他" />
+  <node source-key="1404" source-pkey="1400" source-value="咨询员" result-key="0xa103" result-value="咨询顾问 | 咨询员" />
+  <node source-key="1409" source-pkey="1400" source-value="调研员" result-key="0xa105" result-value="调研员" />
+  <node source-key="1408" source-pkey="1400" source-value="猎头/人才中介" result-key="0xa108" result-value="猎头顾问 | 助理" />
+  <node source-key="1407" source-pkey="1400" source-value="情报信息分析人员" result-key="0xa107" result-value="情报信息分析" />
+  <node source-key="1405" source-pkey="1400" source-value="其他" result-key="0xa10b" result-value="其他" />
+  <node source-key="1100" source-pkey="0" source-value="律师/法务/合规" result-key="0xa300" result-value="律师 | 法务 | 合规" />
+  <node source-key="1101" source-pkey="1100" source-value="律师/法律顾问" result-key="0xa303" result-value="律师" />
+  <node source-key="1103" source-pkey="1100" source-value="律师助理" result-key="0xa304" result-value="律师助理" />
+  <node source-key="1106" source-pkey="1100" source-value="法务经理" result-key="0xa301" result-value="法务经理 | 主管" />
+  <node source-key="1102" source-pkey="1100" source-value="法务主管/专员" result-key="0xa301" result-value="法务经理 | 主管" />
+  <node source-key="1107" source-pkey="1100" source-value="法务助理" result-key="0xa302" result-value="法务专员 | 助理" />
+  <node source-key="1109" source-pkey="1100" source-value="合规经理" result-key="0xa309" result-value="合规经理" />
+  <node source-key="1110" source-pkey="1100" source-value="合规主管/专员" result-key="0xa305" result-value="企业律师 | 合规经理 | 主管" />
+  <node source-key="1108" source-pkey="1100" source-value="知识产权/专利/商标" result-key="0xa307" result-value="知识产权 | 专利顾问 | 代理人" />
+  <node source-key="1105" source-pkey="1100" source-value="其他" result-key="0xa30a" result-value="其他" />
+  <node source-key="1200" source-pkey="0" source-value="教师" result-key="0xa200" result-value="教育 | 培训" />
+  <node source-key="1213" source-pkey="1200" source-value="校长" result-key="0xa20f" result-value="校长 | 副校长" />
+  <node source-key="1208" source-pkey="1200" source-value="大学教授" result-key="0xa217" result-value="大学教授" />
+  <node source-key="1204" source-pkey="1200" source-value="讲师/助教" result-key="0xa212" result-value="培训师 | 讲师" />
+  <node source-key="1201" source-pkey="1200" source-value="中学教师" result-key="0xa203" result-value="初中教师" />
+  <node source-key="1209" source-pkey="1200" source-value="小学教师" result-key="0xa202" result-value="小学教师" />
+  <node source-key="1207" source-pkey="1200" source-value="幼教" result-key="0xa201" result-value="幼教" />
+  <node source-key="1215" source-pkey="1200" source-value="外语培训师" result-key="0xa219" result-value="外籍教师" />
+  <node source-key="1202" source-pkey="1200" source-value="院校教务管理人员" result-key="0xa210" result-value="教学 | 教务管理人员" />
+  <node source-key="1210" source-pkey="1200" source-value="兼职教师" result-key="0xa208" result-value="兼职教师" />
+  <node source-key="1205" source-pkey="1200" source-value="家教" result-key="0xa207" result-value="家教" />
+  <node source-key="1214" source-pkey="1200" source-value="音乐/美术教师" result-key="0xa20d" result-value="美术教师" />
+  <node source-key="1216" source-pkey="1200" source-value="体育教师" result-key="0xa21b" result-value="其他" />
+  <node source-key="1211" source-pkey="1200" source-value="职业技术教师" result-key="0xa206" result-value="职业技术教师" />
+  <node source-key="1206" source-pkey="1200" source-value="其他" result-key="0xa21b" result-value="其他" />
+  <node source-key="5700" source-pkey="0" source-value="培训" result-key="0xa200" result-value="教育 | 培训" />
+  <node source-key="5701" source-pkey="5700" source-value="培训督导" result-key="0xa211" result-value="培训督导" />
+  <node source-key="5702" source-pkey="5700" source-value="培训讲师" result-key="0xa21b" result-value="其他" />
+  <node source-key="5703" source-pkey="5700" source-value="培训策划" result-key="0xa215" result-value="培训策划" />
+  <node source-key="5707" source-pkey="5700" source-value="培训产品开发" result-key="0xa21b" result-value="其他" />
+  <node source-key="5706" source-pkey="5700" source-value="培训/课程顾问" result-key="0xa216" result-value="培训 | 招生 | 课程顾问" />
+  <node source-key="5704" source-pkey="5700" source-value="培训助理" result-key="0xa213" result-value="培训助理 | 助教" />
+  <node source-key="5705" source-pkey="5700" source-value="其他" result-key="0xa21b" result-value="其他" />
+  <node source-key="1000" source-pkey="0" source-value="科研" result-key="0xc400" result-value="公务员 | 事业单位 | 科研机构" />
+  <node source-key="1002" source-pkey="1000" source-value="科研管理人员" result-key="0xc402" result-value="科研管理人员" />
+  <node source-key="1001" source-pkey="1000" source-value="科研人员" result-key="0xc403" result-value="科研人员" />
+  <node source-key="4800" source-pkey="0" source-value="餐饮服务" result-key="0xb300" result-value="烹饪 | 料理 | 食品研发" />
+  <node source-key="4801" source-pkey="4800" source-value="店长/经理" result-key="0xb101" result-value="店长 | 卖场管理" />
+  <node source-key="4819" source-pkey="4800" source-value="大堂经理" result-key="0xb104" result-value="大堂经理 | 领班" />
+  <node source-key="4802" source-pkey="4800" source-value="餐厅领班" result-key="0xb307" result-value="餐厅领班" />
+  <node source-key="4803" source-pkey="4800" source-value="餐饮服务员" result-key="0xb308" result-value="餐厅服务员" />
+  <node source-key="4806" source-pkey="4800" source-value="行政主厨/厨师长" result-key="0xb309" result-value="行政主厨" />
+  <node source-key="4807" source-pkey="4800" source-value="中餐厨师" result-key="0xb30a" result-value="中餐厨师" />
+  <node source-key="4820" source-pkey="4800" source-value="西餐厨师" result-key="0xb30b" result-value="西餐厨师" />
+  <node source-key="4821" source-pkey="4800" source-value="日式厨师" result-key="0xb30c" result-value="日式厨师" />
+  <node source-key="4822" source-pkey="4800" source-value="面点师" result-key="0xb301" result-value="厨师 | 面点师" />
+  <node source-key="4823" source-pkey="4800" source-value="西点师" result-key="0xb30d" result-value="西点师" />
+  <node source-key="4812" source-pkey="4800" source-value="厨师助理/学徒" result-key="0xb30e" result-value="厨师助理 | 学徒" />
+  <node source-key="4809" source-pkey="4800" source-value="茶艺师" result-key="0xb303" result-value="调酒师 | 茶艺师 | 咖啡师" />
+  <node source-key="4816" source-pkey="4800" source-value="咖啡师" result-key="0xb303" result-value="调酒师 | 茶艺师 | 咖啡师" />
+  <node source-key="4808" source-pkey="4800" source-value="调酒师/侍酒师/吧台员" result-key="0xb303" result-value="调酒师 | 茶艺师 | 咖啡师" />
+  <node source-key="4804" source-pkey="4800" source-value="礼仪/迎宾" result-key="0xb10e" result-value="前厅接待 | 礼仪 | 迎宾" />
+  <node source-key="4824" source-pkey="4800" source-value="预订员" result-key="0xb10f" result-value="预订员" />
+  <node source-key="4818" source-pkey="4800" source-value="收银员" result-key="0xb108" result-value="收银员" />
+  <node source-key="4813" source-pkey="4800" source-value="配菜/打荷" result-key="0xb302" result-value="食品加工 | 处理" />
+  <node source-key="4811" source-pkey="4800" source-value="传菜主管" result-key="0xb310" result-value="传菜员" />
+  <node source-key="4825" source-pkey="4800" source-value="传菜员" result-key="0xb310" result-value="传菜员" />
+  <node source-key="" source-pkey="" source-value="" result-key="0xb304" result-value="厨工" />
+  <node source-key="4814" source-pkey="4800" source-value="洗碗工" result-key="0x8716" result-value="洗碗工" />
+  <node source-key="4815" source-pkey="4800" source-value="送餐员" result-key="0xb30f" result-value="送餐员" />
+  <node source-key="4817" source-pkey="4800" source-value="杂工" result-key="0xb313" result-value="杂工" />
+  <node source-key="4810" source-pkey="4800" source-value="其他" result-key="0xb314" result-value="其他" />
+  <node source-key="4900" source-pkey="0" source-value="酒店旅游" result-key="0xb100" result-value="商超 | 酒店 | 娱乐管理 | 服务" />
+  <node source-key="4901" source-pkey="4900" source-value="酒店/宾馆经理" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4902" source-pkey="4900" source-value="酒店/宾馆销售" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4916" source-pkey="4900" source-value="预定部主管" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4917" source-pkey="4900" source-value="预定员" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4903" source-pkey="4900" source-value="大堂经理" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4905" source-pkey="4900" source-value="酒店前台" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4912" source-pkey="4900" source-value="宴会管理" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4915" source-pkey="4900" source-value="宾客服务经理" result-key="0xb105" result-value="酒店管理" />
+  <node source-key="4904" source-pkey="4900" source-value="楼面经理" result-key="0xb102" result-value="楼面管理" />
+  <node source-key="4906" source-pkey="4900" source-value="客房服务员/楼面服务员" result-key="0xb115" result-value="客房服务员" />
+  <node source-key="4918" source-pkey="4900" source-value="健身房服务" result-key="0xb20a" result-value="其他" />
+  <node source-key="4907" source-pkey="4900" source-value="行李员" result-key="0xb110" result-value="行李员" />
+  <node source-key="4914" source-pkey="4900" source-value="管家部经理/主管" result-key="0xb20a" result-value="其他" />
+  <node source-key="4908" source-pkey="4900" source-value="清洁服务人员" result-key="0xb20a" result-value="其他" />
+  <node source-key="4919" source-pkey="4900" source-value="旅游产品销售" result-key="0xb201" result-value="旅游产品销售" />
+  <node source-key="4920" source-pkey="4900" source-value="行程管理/计调" result-key="0xb204" result-value="旅游计划调度" />
+  <node source-key="4921" source-pkey="4900" source-value="签证专员" result-key="0xb20a" result-value="其他" />
+  <node source-key="4909" source-pkey="4900" source-value="导游/旅行顾问" result-key="0xb202" result-value="旅游顾问" />
+  <node source-key="4910" source-pkey="4900" source-value="票务" result-key="0xb203" result-value="导游 | 票务" />
+  <node source-key="4913" source-pkey="4900" source-value="机场代表" result-key="0xb20a" result-value="其他" />
+  <node source-key="4911" source-pkey="4900" source-value="其他" result-key="0xb20a" result-value="其他" />
+  <node source-key="5000" source-pkey="0" source-value="美容保健" result-key="0xb400" result-value="保健 | 美容 | 美发 | 健身" />
+  <node source-key="5018" source-pkey="5000" source-value="美容店长" result-key="0xb404" result-value="美容顾问（BA）" />
+  <node source-key="5016" source-pkey="5000" source-value="美容培训师/导师" result-key="0xb408" result-value="美发培训师" />
+  <node source-key="5001" source-pkey="5000" source-value="美容顾问" result-key="0xb404" result-value="美容顾问（BA）" />
+  <node source-key="5019" source-pkey="5000" source-value="美容师" result-key="0xb403" result-value="美容师 | 美甲师" />
+  <node source-key="5002" source-pkey="5000" source-value="美容助理" result-key="0xb403" result-value="美容师 | 美甲师" />
+  <node source-key="5013" source-pkey="5000" source-value="彩妆培训师" result-key="0x9105" result-value="化妆师 | 造型师 | 服装 | 道具" />
+  <node source-key="5014" source-pkey="5000" source-value="专柜彩妆顾问(BA)" result-key="0x9105" result-value="化妆师 | 造型师 | 服装 | 道具" />
+  <node source-key="5020" source-pkey="5000" source-value="化妆师" result-key="0xb402" result-value="化妆师" />
+  <node source-key="5021" source-pkey="5000" source-value="造型师" result-key="0x9105" result-value="化妆师 | 造型师 | 服装 | 道具" />
+  <node source-key="5022" source-pkey="5000" source-value="美发店长" result-key="0xb401" result-value="美发 | 发型师" />
+  <node source-key="5004" source-pkey="5000" source-value="发型师" result-key="0xb401" result-value="美发 | 发型师" />
+  <node source-key="5005" source-pkey="5000" source-value="发型助理/学徒" result-key="0xb40d" result-value="美体师" />
+  <node source-key="5006" source-pkey="5000" source-value="美甲师" result-key="0xb40d" result-value="美体师" />
+  <node source-key="5017" source-pkey="5000" source-value="美体师" result-key="0xb40d" result-value="美体师" />
+  <node source-key="5003" source-pkey="5000" source-value="瘦身顾问" result-key="0xb40d" result-value="美体师" />
+  <node source-key="5023" source-pkey="5000" source-value="SPA 技师" result-key="0xb40d" result-value="美体师" />
+  <node source-key="5007" source-pkey="5000" source-value="按摩" result-key="0xb406" result-value="按摩 | 足疗" />
+  <node source-key="5024" source-pkey="5000" source-value="足疗" result-key="0xb406" result-value="按摩 | 足疗" />
+  <node source-key="5010" source-pkey="5000" source-value="宠物护理/美容" result-key="0xb605" result-value="宠物护理和美容" />
+  <node source-key="5011" source-pkey="5000" source-value="其他" result-key="0xb40f" result-value="其他" />
+  <node source-key="5100" source-pkey="0" source-value="百货零售" result-key="0xb100" result-value="商超 | 酒店 | 娱乐管理 | 服务" />
+  <node source-key="5101" source-pkey="5100" source-value="卖场经理/店长" result-key="0xb11a" result-value="其他" />
+  <node source-key="5112" source-pkey="5100" source-value="品类经理" result-key="0xb11a" result-value="其他" />
+  <node source-key="5114" source-pkey="5100" source-value="品牌/连锁招商管理" result-key="0xb103" result-value="品牌 | 连锁招商管理" />
+  <node source-key="5115" source-pkey="5100" source-value="奢侈品业务" result-key="0xb11a" result-value="其他" />
+  <node source-key="5102" source-pkey="5100" source-value="店员/营业员" result-key="0xb109" result-value="店员 | 营业员 | 导购员" />
+  <node source-key="5116" source-pkey="5100" source-value="珠宝销售顾问" result-key="0xb11a" result-value="其他" />
+  <node source-key="5117" source-pkey="5100" source-value="督导/巡店" result-key="0xb10b" result-value="促销主管 | 督导" />
+  <node source-key="5105" source-pkey="5100" source-value="导购员" result-key="0xb11a" result-value="其他" />
+  <node source-key="5118" source-pkey="5100" source-value="促销员" result-key="0xb10c" result-value="促销员" />
+  <node source-key="5103" source-pkey="5100" source-value="收银主管" result-key="0xb107" result-value="收银主管" />
+  <node source-key="5119" source-pkey="5100" source-value="收银员" result-key="0xb11a" result-value="其他" />
+  <node source-key="5104" source-pkey="5100" source-value="陈列员" result-key="0xb11a" result-value="其他" />
+  <node source-key="5120" source-pkey="5100" source-value="收货员" result-key="0xb11a" result-value="其他" />
+  <node source-key="5121" source-pkey="5100" source-value="理货员" result-key="0xb11a" result-value="其他" />
+  <node source-key="5113" source-pkey="5100" source-value="安防主管" result-key="0xb11a" result-value="其他" />
+  <node source-key="5108" source-pkey="5100" source-value="防损员/内保" result-key="0xb112" result-value="防损员 | 内保" />
+  <node source-key="5109" source-pkey="5100" source-value="西点师/面包糕点加工" result-key="0xb11a" result-value="其他" />
+  <node source-key="5110" source-pkey="5100" source-value="生鲜食品加工/处理" result-key="0xb116" result-value="生鲜食品加工 | 处理" />
+  <node source-key="5111" source-pkey="5100" source-value="熟食加工" result-key="0xb11a" result-value="其他" />
+  <node source-key="5106" source-pkey="5100" source-value="兼职店员" result-key="0xb11a" result-value="其他" />
+  <node source-key="5107" source-pkey="5100" source-value="其他" result-key="0xb11a" result-value="其他" />
+  <node source-key="1800" source-pkey="0" source-value="交通运输服务" result-key="0x7200" result-value="交通运输服务" />
+  <node source-key="1822" source-pkey="1800" source-value="飞机机长/副机长" result-key="0x7204" result-value="飞机驾驶 | 操作" />
+  <node source-key="1823" source-pkey="1800" source-value="空乘人员" result-key="0x7209" result-value="航空乘务" />
+  <node source-key="1825" source-pkey="1800" source-value="列车/地铁车长" result-key="0x7201" result-value="机动车司机 | 驾驶" />
+  <node source-key="1827" source-pkey="1800" source-value="船长/副船长" result-key="0x720e" result-value="船长" />
+  <node source-key="1810" source-pkey="1800" source-value="商务司机" result-key="0x7210" result-value="其他" />
+  <node source-key="1830" source-pkey="1800" source-value="客运司机" result-key="0x7210" result-value="其他" />
+  <node source-key="1831" source-pkey="1800" source-value="货运司机" result-key="0x7210" result-value="其他" />
+  <node source-key="1832" source-pkey="1800" source-value="出租车司机" result-key="0x7210" result-value="其他" />
+  <node source-key="1833" source-pkey="1800" source-value="班车司机" result-key="0x7210" result-value="其他" />
+  <node source-key="1826" source-pkey="1800" source-value="列车/地铁司机" result-key="0x7202" result-value="列车驾驶 | 操作" />
+  <node source-key="1835" source-pkey="1800" source-value="特种车司机" result-key="0x7210" result-value="其他" />
+  <node source-key="1836" source-pkey="1800" source-value="叉车司机" result-key="0x8714" result-value="吊车司机 | 卡车司机" />
+  <node source-key="1837" source-pkey="1800" source-value="铲车司机" result-key="0x8714" result-value="吊车司机 | 卡车司机" />
+  <node source-key="1838" source-pkey="1800" source-value="吊车司机" result-key="0x8714" result-value="吊车司机 | 卡车司机" />
+  <node source-key="1839" source-pkey="1800" source-value="驾校教练" result-key="0x720c" result-value="驾驶教练" />
+  <node source-key="1840" source-pkey="1800" source-value="代驾" result-key="0x720f" result-value="代驾" />
+  <node source-key="1824" source-pkey="1800" source-value="地勤人员" result-key="0x720a" result-value="地勤人员" />
+  <node source-key="1801" source-pkey="1800" source-value="乘务员" result-key="0x7206" result-value="列车乘务" />
+  <node source-key="1828" source-pkey="1800" source-value="船员" result-key="0x7208" result-value="船员 | 水手" />
+  <node source-key="1829" source-pkey="1800" source-value="其他" result-key="0x7210" result-value="其他" />
+  <node source-key="5200" source-pkey="0" source-value="家政保洁" result-key="0xb600" result-value="社区 | 居民 | 家政服务" />
+  <node source-key="5206" source-pkey="5200" source-value="家政服务/保姆" result-key="0xb606" result-value="保姆 | 母婴护理" />
+  <node source-key="5209" source-pkey="5200" source-value="月嫂" result-key="0xb60a" result-value="月嫂" />
+  <node source-key="5210" source-pkey="5200" source-value="育婴师/保育员" result-key="0xb60c" result-value="其他" />
+  <node source-key="5211" source-pkey="5200" source-value="护工" result-key="0xb60c" result-value="其他" />
+  <node source-key="5205" source-pkey="5200" source-value="清洁工" result-key="0xb608" result-value="保洁" />
+  <node source-key="5212" source-pkey="5200" source-value="钟点工" result-key="0xb609" result-value="钟点工" />
+  <node source-key="5213" source-pkey="5200" source-value="洗衣工" result-key="0xb60c" result-value="其他" />
+  <node source-key="5214" source-pkey="5200" source-value="送水工" result-key="0xb60c" result-value="其他" />
+  <node source-key="5202" source-pkey="5200" source-value="保镖" result-key="0xb60c" result-value="其他" />
+  <node source-key="5215" source-pkey="5200" source-value="空调维修" result-key="0xb60c" result-value="其他" />
+  <node source-key="5216" source-pkey="5200" source-value="家电维修" result-key="0xb60b" result-value="家电维修" />
+  <node source-key="5203" source-pkey="5200" source-value="寻呼员/话务员" result-key="0xb60c" result-value="其他" />
+  <node source-key="5207" source-pkey="5200" source-value="其他" result-key="0xb60c" result-value="其他" />
+  <node source-key="1500" source-pkey="0" source-value="公务员" result-key="0xc400" result-value="公务员 | 事业单位 | 科研机构" />
+  <node source-key="1501" source-pkey="1500" source-value="公务员" result-key="0xc401" result-value="公务员 | 事业单位人员" />
+  <node source-key="2000" source-pkey="0" source-value="翻译" result-key="0xa400" result-value="翻译（口译与笔译）" />
+  <node source-key="2001" source-pkey="2000" source-value="英语翻译" result-key="0xa401" result-value="英语翻译" />
+  <node source-key="2002" source-pkey="2000" source-value="日语翻译" result-key="0xa402" result-value="法语翻译" />
+  <node source-key="2003" source-pkey="2000" source-value="德语翻译" result-key="0xa403" result-value="日语翻译" />
+  <node source-key="2004" source-pkey="2000" source-value="法语翻译" result-key="0xa404" result-value="德语翻译" />
+  <node source-key="2005" source-pkey="2000" source-value="俄语翻译" result-key="0xa405" result-value="俄语翻译" />
+  <node source-key="2010" source-pkey="2000" source-value="意大利语翻译" result-key="0xa406" result-value="西班牙语翻译" />
+  <node source-key="2006" source-pkey="2000" source-value="西班牙语翻译" result-key="0xa407" result-value="意大利语翻译" />
+  <node source-key="2011" source-pkey="2000" source-value="葡萄牙语翻译" result-key="0xa408" result-value="葡萄牙语翻译" />
+  <node source-key="2009" source-pkey="2000" source-value="阿拉伯语翻译" result-key="0xa409" result-value="阿拉伯语翻译" />
+  <node source-key="2007" source-pkey="2000" source-value="韩语/朝鲜语翻译" result-key="0xa40a" result-value="韩语 | 朝鲜语翻译" />
+  <node source-key="2012" source-pkey="2000" source-value="泰语翻译" result-key="0xa40b" result-value="其他语种翻译" />
+  <node source-key="2013" source-pkey="2000" source-value="中国方言翻译" result-key="0xa40b" result-value="其他语种翻译" />
+  <node source-key="2008" source-pkey="2000" source-value="其他语种翻译" result-key="0xa40b" result-value="其他语种翻译" />
+  <node source-key="1600" source-pkey="0" source-value="在校学生" result-key="0xd000" result-value="兼职 | 实习 | 社工 | 其他" />
+  <node source-key="1605" source-pkey="1600" source-value="研究生" result-key="0xd000" result-value="兼职 | 实习 | 社工 | 其他" />
+  <node source-key="1602" source-pkey="1600" source-value="大学/大专应届毕业生" result-key="0xd000" result-value="兼职 | 实习 | 社工 | 其他" />
+  <node source-key="1601" source-pkey="1600" source-value="中专/职校生" result-key="0xd000" result-value="兼职 | 实习 | 社工 | 其他" />
+  <node source-key="1604" source-pkey="1600" source-value="其他" result-key="0xd000" result-value="兼职 | 实习 | 社工 | 其他" />
+  <node source-key="1700" source-pkey="0" source-value="储备干部/培训生/实习生" result-key="0xd100" result-value="实习生 | 培训生 | 储备干部" />
+  <node source-key="1702" source-pkey="1700" source-value="储备干部" result-key="0xd103" result-value="储备干部" />
+  <node source-key="1701" source-pkey="1700" source-value="培训生" result-key="0xd102" result-value="培训生" />
+  <node source-key="1703" source-pkey="1700" source-value="实习生" result-key="0xd101" result-value="实习生" />
+  <node source-key="5300" source-pkey="0" source-value="兼职" result-key="0xd300" result-value="兼职 | 临时" />
+  <node source-key="5301" source-pkey="5300" source-value="兼职" result-key="0xd301" result-value="兼职" />
+  <node source-key="5600" source-pkey="0" source-value="环保" result-key="0xc200" result-value="环境科学 | 环保" />
+  <node source-key="5601" source-pkey="5600" source-value="环保工程师" result-key="0xc201" result-value="环保技术工程师" />
+  <node source-key="5604" source-pkey="5600" source-value="环境影响评价工程师" result-key="0xc202" result-value="环境评价工程师" />
+  <node source-key="5609" source-pkey="5600" source-value="生态治理/规划" result-key="0xc207" result-value="生态治理 | 规划" />
+  <node source-key="5605" source-pkey="5600" source-value="环保检测" result-key="0xc203" result-value="环境监测工程师" />
+  <node source-key="5606" source-pkey="5600" source-value="水质检测员" result-key="0xc203" result-value="环境监测工程师" />
+  <node source-key="5602" source-pkey="5600" source-value="水处理工程师" result-key="0xc204" result-value="水处理工程师" />
+  <node source-key="5607" source-pkey="5600" source-value="固废工程师" result-key="0xc205" result-value="固废处理工程师" />
+  <node source-key="5608" source-pkey="5600" source-value="废气处理工程师" result-key="0xc206" result-value="废气处理工程师" />
+  <node source-key="5603" source-pkey="5600" source-value="其它" result-key="0xc209" result-value="其他" />
+  <node source-key="5800" source-pkey="0" source-value="农/林/牧/渔" result-key="0xc300" result-value="农 | 林 | 牧 | 渔业" />
+  <node source-key="5801" source-pkey="5800" source-value="养殖部主管" result-key="0xc306" result-value="动物育种 | 养殖" />
+  <node source-key="5802" source-pkey="5800" source-value="场长(农/林/牧/渔业)" result-key="0xc309" result-value="其他" />
+  <node source-key="5803" source-pkey="5800" source-value="农艺师" result-key="0xc302" result-value="农艺师" />
+  <node source-key="5804" source-pkey="5800" source-value="畜牧师" result-key="0xc305" result-value="畜牧师" />
+  <node source-key="5805" source-pkey="5800" source-value="饲养员" result-key="0xc309" result-value="其他" />
+  <node source-key="5806" source-pkey="5800" source-value="动物营养/饲料研发" result-key="0xc307" result-value="动物营养 | 饲料研发" />
+  <node source-key="5807" source-pkey="5800" source-value="其他" result-key="0xc309" result-value="其他" />
+  <node source-key="6100" source-pkey="0" source-value="网店淘宝" result-key="0x4300" result-value="互联网产品 | 运营管理" />
+  <node source-key="6101" source-pkey="6100" source-value="网店/淘宝店长" result-key="0x430e" result-value="网店店长" />
+  <node source-key="6102" source-pkey="6100" source-value="网店/淘宝运营" result-key="0x4311" result-value="网店运营" />
+  <node source-key="6103" source-pkey="6100" source-value="网店店铺管理员" result-key="0x4312" result-value="网店管理员" />
+  <node source-key="6104" source-pkey="6100" source-value="网店/淘宝客服" result-key="0x4310" result-value="网店客服" />
+  <node source-key="6105" source-pkey="6100" source-value="店铺推广" result-key="0x430f" result-value="网店推广" />
+  <node source-key="6106" source-pkey="6100" source-value="网店美工" result-key="0x431a" result-value="其他" />
+  <node source-key="6107" source-pkey="6100" source-value="网店模特" result-key="0x431a" result-value="其他" />
+  <node source-key="6108" source-pkey="6100" source-value="其他" result-key="0x431a" result-value="其他" />
+  <node source-key="6200" source-pkey="0" source-value="机械机床" result-key="0x8500" result-value="机械设计 | 制造 | 维修" />
+  <node source-key="6201" source-pkey="6200" source-value="数控操机" result-key="0x8528" result-value="数控操作" />
+  <node source-key="6202" source-pkey="6200" source-value="数控编程" result-key="0x8529" result-value="数控编程" />
+  <node source-key="6203" source-pkey="6200" source-value="机修工" result-key="0x852f" result-value="机修工" />
+  <node source-key="6204" source-pkey="6200" source-value="折弯工" result-key="0x871b" result-value="其他" />
+  <node source-key="6205" source-pkey="6200" source-value="车工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6206" source-pkey="6200" source-value="磨工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6207" source-pkey="6200" source-value="铣工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6208" source-pkey="6200" source-value="冲压工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6209" source-pkey="6200" source-value="刨工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6210" source-pkey="6200" source-value="钳工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6211" source-pkey="6200" source-value="钻工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6212" source-pkey="6200" source-value="镗工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6213" source-pkey="6200" source-value="铆工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6214" source-pkey="6200" source-value="钣金工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6215" source-pkey="6200" source-value="抛光工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6216" source-pkey="6200" source-value="切割技工" result-key="0x8701" result-value="车床 | 磨床 | 铣床 | 冲床工" />
+  <node source-key="6217" source-pkey="6200" source-value="模具工" result-key="0x8702" result-value="模具工" />
+  <node source-key="6218" source-pkey="6200" source-value="炼胶工" result-key="0x871b" result-value="其他" />
+  <node source-key="6219" source-pkey="6200" source-value="硫化工" result-key="0x871b" result-value="其他" />
+  <node source-key="6220" source-pkey="6200" source-value="吹膜工" result-key="0x871b" result-value="其他" />
+  <node source-key="6221" source-pkey="6200" source-value="注塑工" result-key="0x871b" result-value="其他" />
+  <node source-key="6222" source-pkey="6200" source-value="其他" result-key="0x871b" result-value="其他" />
+  <node source-key="6300" source-pkey="0" source-value="印刷包装" result-key="0x9100" result-value="影视 | 媒体 | 出版 | 印刷" />
+  <node source-key="6301" source-pkey="6300" source-value="印刷工" result-key="0x912d" result-value="其他" />
+  <node source-key="6302" source-pkey="6300" source-value="校对/录入" result-key="0x9113" result-value="校对 | 录入" />
+  <node source-key="6304" source-pkey="6300" source-value="调色员" result-key="0x911e" result-value="调色员" />
+  <node source-key="6305" source-pkey="6300" source-value="烫金工" result-key="0x911f" result-value="烫金工" />
+  <node source-key="6306" source-pkey="6300" source-value="晒版员" result-key="0x9120" result-value="晒版员" />
+  <node source-key="6307" source-pkey="6300" source-value="印刷排版/制版" result-key="0x912d" result-value="其他" />
+  <node source-key="6308" source-pkey="6300" source-value="装订工" result-key="0x9121" result-value="装订工" />
+  <node source-key="6309" source-pkey="6300" source-value="印刷机械机长" result-key="0x912a" result-value="印刷机械机长" />
+  <node source-key="6310" source-pkey="6300" source-value="数码直印/菲林输出" result-key="0x9122" result-value="数码直印 | 菲林输出" />
+  <node source-key="6311" source-pkey="6300" source-value="调墨技师" result-key="0x9123" result-value="调墨技师" />
+  <node source-key="6312" source-pkey="6300" source-value="电分操作员" result-key="0x9124" result-value="电分操作员" />
+  <node source-key="6313" source-pkey="6300" source-value="打稿机操作员" result-key="0x9125" result-value="打稿机操作员" />
+  <node source-key="6314" source-pkey="6300" source-value="切纸机操作工" result-key="0x9126" result-value="切纸机操作工" />
+  <node source-key="6315" source-pkey="6300" source-value="裱胶工" result-key="0x9127" result-value="裱胶工" />
+  <node source-key="6316" source-pkey="6300" source-value="压痕工" result-key="0x9129" result-value="压痕工" />
+  <node source-key="6317" source-pkey="6300" source-value="复卷工" result-key="0x9128" result-value="复卷工" />
+  <node source-key="6318" source-pkey="6300" source-value="其他" result-key="0x912d" result-value="其他" />
+  <node source-key="6400" source-pkey="0" source-value="运动健身" result-key="0xb400" result-value="保健 | 美容 | 美发 | 健身" />
+  <node source-key="6401" source-pkey="6400" source-value="健身顾问/教练" result-key="0xb405" result-value="健身 | 美体 | 舞蹈教练" />
+  <node source-key="6402" source-pkey="6400" source-value="瑜伽老师" result-key="0xb40b" result-value="瑜伽教练" />
+  <node source-key="6403" source-pkey="6400" source-value="舞蹈老师" result-key="0xa218" result-value="舞蹈老师" />
+  <node source-key="6404" source-pkey="6400" source-value="游泳教练" result-key="0xb409" result-value="游泳教练" />
+  <node source-key="6405" source-pkey="6400" source-value="救生员" result-key="0xb407" result-value="救生员" />
+  <node source-key="6406" source-pkey="6400" source-value="高尔夫教练" result-key="0xb40a" result-value="高尔夫教练" />
+  <node source-key="6407" source-pkey="6400" source-value="体育运动教练" result-key="0xa20e" result-value="体育老师 | 教练" />
+  <node source-key="6408" source-pkey="6400" source-value="其他" result-key="0xb40f" result-value="其他" />
+  <node source-key="6500" source-pkey="0" source-value="休闲娱乐" result-key="0xb100" result-value="商超 | 酒店 | 娱乐管理 | 服务" />
+  <node source-key="6501" source-pkey="6500" source-value="司仪" result-key="0x9106" result-value="主持人 | 司仪" />
+  <node source-key="6502" source-pkey="6500" source-value="婚礼/庆典策划服务" result-key="0xb604" result-value="婚礼 | 庆典策划服务" />
+  <node source-key="6503" source-pkey="6500" source-value="DJ" result-key="0xb11a" result-value="其他" />
+  <node source-key="6504" source-pkey="6500" source-value="驻唱/歌手" result-key="0xb11a" result-value="其他" />
+  <node source-key="6505" source-pkey="6500" source-value="舞蹈演员" result-key="0xb11a" result-value="其他" />
+  <node source-key="6506" source-pkey="6500" source-value="模特" result-key="0xb11a" result-value="其他" />
+  <node source-key="6507" source-pkey="6500" source-value="演员/群众演员" result-key="0x9107" result-value="演员 | 模特" />
+  <node source-key="6509" source-pkey="6500" source-value="娱乐领班" result-key="0xb11a" result-value="其他" />
+  <node source-key="6510" source-pkey="6500" source-value="娱乐服务员" result-key="0xb11a" result-value="其他" />
+  <node source-key="6511" source-pkey="6500" source-value="前台迎宾" result-key="0xb11a" result-value="其他" />
+  <node source-key="6508" source-pkey="6500" source-value="其他" result-key="0xb11a" result-value="其他" />
+  <node source-key="1900" source-pkey="0" source-value="其他" result-key="0xd000" result-value="兼职 | 实习 | 社工 | 其他" />
+  <node source-key="1902" source-pkey="1900" source-value="驯兽师/助理驯兽师" result-key="0xd203" result-value="其他" />
+  <node source-key="1903" source-pkey="1900" source-value="志愿者/社会工作者" result-key="0xd201" result-value="志愿者 | 义工" />
+  <node source-key="1901" source-pkey="1900" source-value="其他" result-key="0xd203" result-value="其他" />
+  <node source-key="" source-pkey="" source-value="" result-key="0x0" result-value="默认" />
+  <node source-key="316" source-pkey="" source-value="互联网产品经理/主管" result-key="0x4301" result-value="互联网产品经理 | 主管" />
+  <node source-key="349" source-pkey="" source-value="证券总监/部门经理" result-key="0x6201" result-value="证券总监 | 部门经理" />
+  <node source-key="191" source-pkey="" source-value="证券/投资客户经理" result-key="0x6204" result-value="证券 | 投资客户经理" />
+  <node source-key="908" source-pkey="" source-value="证券/投资客户主管" result-key="0x6205" result-value="证券 | 投资客户主管" />
+  <node source-key="468" source-pkey="" source-value="证券/投资项目管理" result-key="0x6211" result-value="证券 | 投资项目管理" />
+  <node source-key="881" source-pkey="" source-value="船舶乘务" result-key="0x7207" result-value="船舶乘务" />
+  <node source-key="26" source-pkey="" source-value="采购|贸易|交通|物流" result-key="0x7000" result-value="采购 | 贸易 | 交通 | 物流" />
+  <node source-key="22" source-pkey="" source-value="项目|质量|高级管理" result-key="0x3000" result-value="项目 | 质量 | 高级管理" />
+  <node source-key="29" source-pkey="" source-value="咨询|法律|教育|翻译" result-key="0xa000" result-value="咨询 | 法律 | 教育 | 翻译" />
+  <node source-key="193" source-pkey="" source-value="银行会计/柜员" result-key="0x610b" result-value="银行会计 | 柜员" />
+  <node source-key="582" source-pkey="" source-value="其他" result-key="0x840a" result-value="其他" />
+  <node source-key="473" source-pkey="" source-value="汽车零部件设计师" result-key="0x8306" result-value="汽车零部件设计师" />
+  <node source-key="25" source-pkey="" source-value="金融" result-key="0x6000" result-value="金融" />
+  <node source-key="052" source-pkey="" source-value="网络运营管理" result-key="0x4305" result-value="网络运营管理" />
+  <node source-key="2059" source-pkey="" source-value="产品运营" result-key="0x4316" result-value="产品运营" />
+  <node source-key="2060" source-pkey="" source-value="数据运营" result-key="0x4317" result-value="数据运营" />
+  <node source-key="2107" source-pkey="" source-value="金融租赁" result-key="0x6219" result-value="金融租赁" />
+  <node source-key="930" source-pkey="" source-value="信托服务" result-key="0x6401" result-value="信托服务" />
+  <node source-key="929" source-pkey="" source-value="拍卖师" result-key="0x6403" result-value="拍卖师" />
+  <node source-key="871" source-pkey="" source-value="产品管理" result-key="0x8108" result-value="产品管理" />
+  <node source-key="487" source-pkey="" source-value="生产计划" result-key="0x8109" result-value="生产计划" />
+  <node source-key="592" source-pkey="" source-value="包装工程师" result-key="0x810f" result-value="包装工程师" />
+  <node source-key="090" source-pkey="" source-value="技术文档工程师" result-key="0x8110" result-value="技术文档工程师" />
+  <node source-key="2017" source-pkey="" source-value="生产跟单" result-key="0x8117" result-value="生产跟单" />
+  <node source-key="467" source-pkey="" source-value="电气设计" result-key="0x8219" result-value="电气设计" />
+  <node source-key="332" source-pkey="" source-value="工程机械经理" result-key="0x8501" result-value="工程机械经理" />
+  <node source-key="406" source-pkey="" source-value="模拟电路设计/应用工程师" result-key="0x8206" result-value="模拟电路设计 | 应用工程师" />
+  <node source-key="560" source-pkey="" source-value="空调工程/设计" result-key="0x8212" result-value="空调工程 | 设计" />
+  <node source-key="2201" source-pkey="" source-value="浮法操作工(玻璃技术)" result-key="0x852b" result-value="浮法操作工（玻璃技术）" />
+  <node source-key="920" source-pkey="" source-value="列车维修/保养" result-key="0x8517" result-value="列车维修 | 保养" />
+  <node source-key="516" source-pkey="" source-value="服装/纺织品/皮革销售" result-key="0x8609" result-value="服装 | 纺织品 | 皮革销售" />
+  <node source-key="517" source-pkey="" source-value="服装/纺织/皮革项目管理" result-key="0x860b" result-value="服装 | 纺织 | 皮革项目管理" />
+  <node source-key="24" source-pkey="" source-value="房产|建筑|物业管理" result-key="0x5000" result-value="房产 | 建筑 | 物业管理" />
+  <node source-key="23" source-pkey="" source-value="IT|互联网|通信" result-key="0x4000" result-value="IT | 互联网 | 通信" />
+  <node source-key="581" source-pkey="" source-value="汽车售后服务/客户服务" result-key="0x8404" result-value="汽车售后服务 | 客户服务" />
+  <node source-key="112" source-pkey="" source-value="化学技术应用" result-key="0x8904" result-value="化学技术应用" />
+  <node source-key="111" source-pkey="" source-value="化学操作" result-key="0x8905" result-value="化学操作" />
+  <node source-key="2006" source-pkey="" source-value="橡胶工程师" result-key="0x890b" result-value="橡胶工程师" />
+  <node source-key="584" source-pkey="" source-value="机械研发工程师" result-key="0x8508" result-value="机械研发工程师" />
+  <node source-key="2159" source-pkey="" source-value="集装箱维护" result-key="0x7311" result-value="集装箱维护" />
+  <node source-key="2160" source-pkey="" source-value="集装箱操作" result-key="0x7312" result-value="集装箱操作" />
+  <node source-key="335" source-pkey="" source-value="其他" result-key="0x852e" result-value="其他" />
+  <node source-key="2249" source-pkey="" source-value="鞋子设计" result-key="0x8617" result-value="鞋子设计" />
+  <node source-key="2209" source-pkey="" source-value="拖压工" result-key="0x870f" result-value="拖压工" />
+  <node source-key="2218" source-pkey="" source-value="万能工" result-key="0x8718" result-value="万能工" />
+  <node source-key="495" source-pkey="" source-value="医药项目管理" result-key="0x8809" result-value="医药项目管理" />
+  <node source-key="776" source-pkey="" source-value="药品研发" result-key="0x880c" result-value="药品研发" />
+  <node source-key="763" source-pkey="" source-value="医药化学分析" result-key="0x8811" result-value="医药化学分析" />
+  <node source-key="2018" source-pkey="" source-value="临床推广经理" result-key="0x8818" result-value="临床推广经理" />
+  <node source-key="409" source-pkey="" source-value="电子/电器项目管理" result-key="0x8217" result-value="电子 | 电器项目管理" />
+  <node source-key="20" source-pkey="" source-value="销售|客服|市场" result-key="0x1000" result-value="销售 | 客服 | 市场" />
+  <node source-key="28" source-pkey="" source-value="传媒|印刷|艺术|设计" result-key="0x9000" result-value="传媒 | 印刷 | 艺术 | 设计" />
+  <node source-key="130000" source-pkey="" source-value="能源/矿产/地质勘查" result-key="0xc100" result-value="能源 | 矿产 | 地质勘查" />
+  <node source-key="2033" source-pkey="" source-value="监控维护" result-key="0x5307" result-value="监控维护" />
+  <node source-key="200900" source-pkey="" source-value="信托/担保/拍卖/典当" result-key="0x6400" result-value="信托 | 担保 | 拍卖 | 典当" />
+  <node source-key="2057" source-pkey="" source-value="微信推广" result-key="0x4314" result-value="微信推广" />
+  <node source-key="2056" source-pkey="" source-value="运营主管/专员" result-key="0x4313" result-value="运营主管 | 专员" />
+  <node source-key="693" source-pkey="" source-value="IT质量管理经理/主管" result-key="0x4401" result-value="IT质量管理经理 | 主管" />
+  <node source-key="2156" source-pkey="" source-value="交通管理员" result-key="0x720d" result-value="交通管理员" />
+  <node source-key="889" source-pkey="" source-value="银行客户代表" result-key="0x6107" result-value="银行客户代表" />
+  <node source-key="885" source-pkey="" source-value="水利/港口工程技术" result-key="0x5209" result-value="水利 | 港口工程技术" />
+  <node source-key="051" source-pkey="" source-value="系统管理员" result-key="0x4506" result-value="系统管理员" />
+  <node source-key="402" source-pkey="" source-value="音频/视频工程师/技术员" result-key="0x8213" result-value="音频 | 视频工程师 | 技术员" />
+  <node source-key="2041" source-pkey="" source-value="PHP开发工程师" result-key="0x411d" result-value="PHP开发工程师" />
+  <node source-key="192" source-pkey="" source-value="银行客户服务" result-key="0x6108" result-value="银行客户服务" />
+  <node source-key="389" source-pkey="" source-value="数据库管理员" result-key="0x450a" result-value="数据库管理员" />
+  <node source-key="922" source-pkey="" source-value="船舶维修/保养" result-key="0x8519" result-value="船舶维修 | 保养" />
+  <node source-key="880" source-pkey="" source-value="船舶驾驶/操作" result-key="0x7203" result-value="船舶驾驶 | 操作" />
+  <node source-key="2236" source-pkey="" source-value="发动机/总装工程师" result-key="0x830e" result-value="发动机 | 总装工程师" />
+  <node source-key="480" source-pkey="" source-value="汽车定损/车险理赔" result-key="0x8407" result-value="汽车定损 | 车险理赔" />
+  <node source-key="571" source-pkey="" source-value="银行卡/电子银行业务推广" result-key="0x610e" result-value="银行卡 | 电子银行业务推广" />
+  <node source-key="536" source-pkey="" source-value="保险项目经理/主管" result-key="0x630c" result-value="保险项目经理 | 主管" />
+  <node source-key="872" source-pkey="" source-value="汽车动力系统工程师" result-key="0x8301" result-value="汽车动力系统工程师" />
+  <node source-key="503" source-pkey="" source-value="化工项目管理" result-key="0x890a" result-value="化工项目管理" />
+  <node source-key="572" source-pkey="" source-value="公司业务" result-key="0x610c" result-value="公司业务" />
+  <node source-key="010" source-pkey="" source-value="医药代表" result-key="0x110c" result-value="医药代表" />
+  <node source-key="573" source-pkey="" source-value="个人业务" result-key="0x610d" result-value="个人业务" />
+  <node source-key="845" source-pkey="" source-value="客户总监" result-key="0x1204" result-value="客户总监" />
+  <node source-key="853" source-pkey="" source-value="学术推广" result-key="0x1519" result-value="学术推广" />
+  <node source-key="21" source-pkey="" source-value="财务|人力资源|行政" result-key="0x2000" result-value="财务 | 人力资源 | 行政" />
+  <node source-key="346" source-pkey="" source-value="融资总监" result-key="0x620a" result-value="融资总监" />
+  <node source-key="2105" source-pkey="" source-value="投资经理" result-key="0x6217" result-value="投资经理" />
+  <node source-key="933" source-pkey="" source-value="业务拓展专员/助理" result-key="0x1106" result-value="业务拓展专员 | 助理" />
+  <node source-key="500" source-pkey="" source-value="通信研发工程师" result-key="0x4702" result-value="通信研发工程师" />
+  <node source-key="2050" source-pkey="" source-value="新媒体运营" result-key="0x430d" result-value="新媒体运营" />
+  <node source-key="2061" source-pkey="" source-value="市场运营" result-key="0x4318" result-value="市场运营" />
+  <node source-key="921" source-pkey="" source-value="担保业务" result-key="0x6402" result-value="担保业务" />
+  <node source-key="488" source-pkey="" source-value="供应链管理" result-key="0x7105" result-value="供应链管理" />
+  <node source-key="075" source-pkey="" source-value="制造工程师" result-key="0x810a" result-value="制造工程师" />
+  <node source-key="068" source-pkey="" source-value="生产设备管理" result-key="0x810d" result-value="生产设备管理" />
+  <node source-key="683" source-pkey="" source-value="电气线路设计" result-key="0x821a" result-value="电气线路设计" />
+  <node source-key="587" source-pkey="" source-value="气动工程师" result-key="0x850b" result-value="气动工程师" />
+  <node source-key="595" source-pkey="" source-value="列车设计与制造" result-key="0x8516" result-value="列车设计与制造" />
+  <node source-key="2189" source-pkey="" source-value="工业工程师" result-key="0x851f" result-value="工业工程师" />
+  <node source-key="2172" source-pkey="" source-value="海外游计调" result-key="0xb208" result-value="海外游计调" />
+  <node source-key="2077" source-pkey="" source-value="品酒师" result-key="0xb312" result-value="品酒师" />
+  <node source-key="2091" source-pkey="" source-value="验光师" result-key="0xb514" result-value="验光师" />
+  <node source-key="805" source-pkey="" source-value="保安经理" result-key="0xb601" result-value="保安经理" />
+  <node source-key="932" source-pkey="" source-value="生产运营管理" result-key="0x8105" result-value="生产运营管理" />
+  <node source-key="675" source-pkey="" source-value="互联网产品专员/助理" result-key="0x4302" result-value="互联网产品专员 | 助理" />
+  <node source-key="31" source-pkey="" source-value="能源|环保|农业|科研" result-key="0xc000" result-value="能源 | 环保 | 农业 | 科研" />
+  <node source-key="2000" source-pkey="" source-value="插花设计师" result-key="0xc301" result-value="插花设计师" />
+  <node source-key="2143" source-pkey="" source-value="国外求职" result-key="0xd303" result-value="国外求职" />
+  <node source-key="507" source-pkey="" source-value="广告客户代表" result-key="0x170a" result-value="广告客户代表" />
+  <node source-key="2145" source-pkey="" source-value="图书管理员" result-key="0x230a" result-value="图书管理员" />
+  <node source-key="079" source-pkey="" source-value="软件研发工程师" result-key="0x4103" result-value="软件研发工程师" />
+  <node source-key="2063" source-pkey="" source-value="标准化工程师" result-key="0x4408" result-value="标准化工程师" />
+  <node source-key="678" source-pkey="" source-value="计算机硬件维护工程师" result-key="0x450b" result-value="计算机硬件维护工程师" />
+  <node source-key="2024" source-pkey="" source-value="工程总监" result-key="0x521a" result-value="工程总监" />
+  <node source-key="2152" source-pkey="" source-value="招商专员" result-key="0x1110" result-value="招商专员" />
+  <node source-key="613" source-pkey="" source-value="印刷操作" result-key="0x9117" result-value="印刷操作" />
+  <node source-key="792" source-pkey="" source-value="文科教师" result-key="0xa20a" result-value="文科教师" />
+  <node source-key="135" source-pkey="" source-value="教育产品开发" result-key="0xa214" result-value="教育产品开发" />
+  <node source-key="899" source-pkey="" source-value="美容整形科医生" result-key="0xb507" result-value="美容整形科医生" />
+  <node source-key="2021" source-pkey="" source-value="电力电子研发工程师" result-key="0xc109" result-value="电力电子研发工程师" />
+  <node source-key="2079" source-pkey="" source-value="项目计划合约专员" result-key="0x3117" result-value="项目计划合约专员" />
+  <node source-key="566" source-pkey="" source-value="房地产项目管理" result-key="0x510b" result-value="房地产项目管理" />
+  <node source-key="886" source-pkey="" source-value="架线和管道工程技术" result-key="0x520a" result-value="架线和管道工程技术" />
+  <node source-key="462" source-pkey="" source-value="销售数据分析" result-key="0x1308" result-value="销售数据分析" />
+  <node source-key="813" source-pkey="" source-value="项目总监" result-key="0x3101" result-value="项目总监" />
+  <node source-key="829" source-pkey="" source-value="房地产项目配套工程师" result-key="0x3109" result-value="房地产项目配套工程师" />
+  <node source-key="826" source-pkey="" source-value="医药项目管理" result-key="0x3112" result-value="医药项目管理" />
+  <node source-key="672" source-pkey="" source-value="游戏界面设计" result-key="0x4114" result-value="游戏界面设计" />
+  <node source-key="2062" source-pkey="" source-value="内容运营" result-key="0x4319" result-value="内容运营" />
+  <node source-key="499" source-pkey="" source-value="通信项目管理" result-key="0x470b" result-value="通信项目管理" />
+  <node source-key="746" source-pkey="" source-value="水运/空运/陆运操作" result-key="0x7307" result-value="水运 | 空运 | 陆运操作" />
+  <node source-key="078" source-pkey="" source-value="电子/电器工程师" result-key="0x8202" result-value="电子 | 电器工程师" />
+  <node source-key="862" source-pkey="" source-value="用户体验（UE/UX）设计" result-key="0x920b" result-value="用户体验（UE | UX）设计" />
+  <node source-key="2020" source-pkey="" source-value="电力系统研发工程师" result-key="0xc108" result-value="电力系统研发工程师" />
+  <node source-key="2202" source-pkey="" source-value="地铁轨道设计" result-key="0x852c" result-value="地铁轨道设计" />
+  <node source-key="224" source-pkey="" source-value="企业律师/合规顾问" result-key="0xa306" result-value="企业律师 | 合规顾问" />
+  <node source-key="897" source-pkey="" source-value="旅游产品/线路策划" result-key="0xb205" result-value="旅游产品 | 线路策划" />
+  <node source-key="818" source-pkey="" source-value="IT项目经理/主管" result-key="0x3106" result-value="IT项目经理 | 主管" />
+  <node source-key="661" source-pkey="" source-value="销售运营专员/助理" result-key="0x1304" result-value="销售运营专员 | 助理" />
+  <node source-key="814" source-pkey="" source-value="项目经理/项目主管" result-key="0x3102" result-value="项目经理 | 项目主管" />
+  <node source-key="910" source-pkey="" source-value="证券/投资客户总监" result-key="0x6203" result-value="证券 | 投资客户总监" />
+  <node source-key="519" source-pkey="" source-value="服装/纺织品/皮革质量管理" result-key="0x860a" result-value="服装 | 纺织品 | 皮革质量管理" />
+  <node source-key="528" source-pkey="" source-value="电器研发工程师" result-key="0x8203" result-value="电器研发工程师" />
+  <node source-key="534" source-pkey="" source-value="能源/矿产项目管理" result-key="0xc107" result-value="能源 | 矿产项目管理" />
+  <node source-key="744" source-pkey="" source-value="物流/仓储项目管理" result-key="0x730f" result-value="物流 | 仓储项目管理" />
+  <node source-key="914" source-pkey="" source-value="林业技术人员" result-key="0xc303" result-value="林业技术人员" />
+  <node source-key="662" source-pkey="" source-value="销售运营经理/主管" result-key="0x1303" result-value="销售运营经理 | 主管" />
+  <node source-key="816" source-pkey="" source-value="广告/会展项目管理" result-key="0x3104" result-value="广告 | 会展项目管理" />
+  <node source-key="831" source-pkey="" source-value="保险项目经理/主管" result-key="0x310c" result-value="保险项目经理 | 主管" />
+  <node source-key="2010" source-pkey="" source-value="化学/化工技术总监" result-key="0x890f" result-value="化学 | 化工技术总监" />
+  <node source-key="367" source-pkey="" source-value="总编/副总编" result-key="0x9102" result-value="总编 | 副总编" />
+  <node source-key="2039" source-pkey="" source-value="Android开发工程师" result-key="0x411b" result-value="Android开发工程师" />
+  <node source-key="705" source-pkey="" source-value="建筑施工现场管理" result-key="0x5215" result-value="建筑施工现场管理" />
+  <node source-key="2141" source-pkey="" source-value="视频主播" result-key="0x912c" result-value="视频主播" />
+  <node source-key="364" source-pkey="" source-value="设计管理人员" result-key="0x9201" result-value="设计管理人员" />
+  <node source-key="751" source-pkey="" source-value="家居用品设计" result-key="0x9210" result-value="家居用品设计" />
+  <node source-key="2142" source-pkey="" source-value="咨询师" result-key="0xa10a" result-value="咨询师" />
+  <node source-key="2117" source-pkey="" source-value="特教(特殊教育)" result-key="0xa21a" result-value="特教（特殊教育）" />
+  <node source-key="791" source-pkey="" source-value="理科教师" result-key="0xa209" result-value="理科教师" />
+  <node source-key="793" source-pkey="" source-value="外语教师" result-key="0xa20b" result-value="外语教师" />
+  <node source-key="790" source-pkey="" source-value="音乐教师" result-key="0xa20c" result-value="音乐教师" />
+  <node source-key="636" source-pkey="" source-value="客房管理" result-key="0xb106" result-value="客房管理" />
+  <node source-key="634" source-pkey="" source-value="品类管理" result-key="0xb10d" result-value="品类管理" />
+  <node source-key="279" source-pkey="" source-value="服务员" result-key="0xb111" result-value="服务员" />
+  <node source-key="494" source-pkey="" source-value="奢侈品销售" result-key="0xb113" result-value="奢侈品销售" />
+  <node source-key="2224" source-pkey="" source-value="酒店试睡员" result-key="0xb117" result-value="酒店试睡员" />
+  <node source-key="2225" source-pkey="" source-value="门卫" result-key="0xb118" result-value="门卫" />
+  <node source-key="533" source-pkey="" source-value="印刷排版/制版" result-key="0x9116" result-value="印刷排版 | 制版" />
+  <node source-key="153" source-pkey="" source-value="艺术/设计总监" result-key="0x9202" result-value="艺术 | 设计总监" />
+  <node source-key="608" source-pkey="" source-value="CAD设计/制图" result-key="0x9205" result-value="CAD设计 | 制图" />
+  <node source-key="30" source-pkey="" source-value="服务业" result-key="0xb000" result-value="服务业" />
+  <node source-key="2005" source-pkey="" source-value="运营总监" result-key="0x3312" result-value="运营总监" />
+  <node source-key="358" source-pkey="" source-value="大学教师" result-key="0xa205" result-value="大学教师" />
+  <node source-key="184" source-pkey="" source-value="美术编辑/美术设计" result-key="0x920c" result-value="美术编辑 | 美术设计" />
+  <node source-key="637" source-pkey="" source-value="主持人/司仪" result-key="0xb114" result-value="主持人 | 司仪" />
+  <node source-key="836" source-pkey="" source-value="食品/饮料检验" result-key="0xb306" result-value="食品 | 饮料检验" />
+  <node source-key="290" source-pkey="" source-value="核力/火力工程师" result-key="0xc103" result-value="核力 | 火力工程师" />
+  <node source-key="379" source-pkey="" source-value="环境管理/园林景区保护" result-key="0xc208" result-value="环境管理 | 园林景区保护" />
+  <node source-key="838" source-pkey="" source-value="社会工作者/社工" result-key="0xd202" result-value="社会工作者 | 社工" />
+  <node source-key="821" source-pkey="" source-value="生产项目经理/主管" result-key="0x310d" result-value="生产项目经理 | 主管" />
+  <node source-key="200700" source-pkey="" source-value="志愿者/社会工作者" result-key="0xd200" result-value="志愿者 | 社会工作者" />
+  <node source-key="2040" source-pkey="" source-value="Java开发工程师" result-key="0x411c" result-value="Java开发工程师" />
+  <node source-key="2122" source-pkey="" source-value="主笔设计师" result-key="0x9119" result-value="主笔设计师" />
+  <node source-key="2076" source-pkey="" source-value="烧烤师" result-key="0xb311" result-value="烧烤师" />
+  <node source-key="649" source-pkey="" source-value="营养师" result-key="0xb512" result-value="营养师" />
+  <node source-key="2094" source-pkey="" source-value="院长" result-key="0xb517" result-value="院长" />
+  <node source-key="104" source-pkey="" source-value="保安" result-key="0xb602" result-value="保安" />
+  <node source-key="308" source-pkey="" source-value="家政人员" result-key="0xb603" result-value="家政人员" />
+  <node source-key="2022" source-pkey="" source-value="控制保护研发工程师" result-key="0xc10a" result-value="控制保护研发工程师" />
+  <node source-key="381" source-pkey="" source-value="其他" result-key="0xd104" result-value="其他" />
+  <node source-key="915" source-pkey="" source-value="园艺师" result-key="0xc304" result-value="园艺师" />
+  <node source-key="654" source-pkey="" source-value="饲料销售" result-key="0xc308" result-value="饲料销售" />
+  <node source-key="300" source-pkey="" source-value="临时" result-key="0xd302" result-value="临时" />
+  <node source-key="2171" source-pkey="" source-value="潜水员" result-key="0xb207" result-value="潜水员" />
+  <node source-key="820" source-pkey="" source-value="通信项目管理" result-key="0x3108" result-value="通信项目管理" />
+  <node source-key="304" source-pkey="" source-value="其他" result-key="0xd401" result-value="其他" />
+  <node source-key="463" source-pkey="" source-value="销售培训师/讲师" result-key="0x1307" result-value="销售培训师 | 讲师" />
+  <node source-key="609" source-pkey="" source-value="广告/会展项目管理" result-key="0x170f" result-value="广告 | 会展项目管理" />
+  <node source-key="713" source-pkey="" source-value="会计助理/文员" result-key="0x210b" result-value="会计助理 | 文员" />
+  <node source-key="825" source-pkey="" source-value="服装/纺织/皮革项目管理" result-key="0x3111" result-value="服装 | 纺织 | 皮革项目管理" />
+  <node source-key="2058" source-pkey="" source-value="淘宝/微信运营专员/主管" result-key="0x4315" result-value="淘宝 | 微信运营专员 | 主管" />
+  <node source-key="602" source-pkey="" source-value="业务拓展专员/助理" result-key="0x1509" result-value="业务拓展专员 | 助理" />
+  <node source-key="858" source-pkey="" source-value="企业培训师/讲师" result-key="0x220e" result-value="企业培训师 | 讲师" />
+  <node source-key="201300" source-pkey="" source-value="项目管理/项目协调" result-key="0x3100" result-value="项目管理 | 项目协调" />
+  <node source-key="200500" source-pkey="" source-value="IT运维/技术支持" result-key="0x4500" result-value="IT运维 | 技术支持" />
+  <node source-key="347" source-pkey="" source-value="银行经理/主任" result-key="0x6102" result-value="银行经理 | 主任" />
+  <node source-key="537" source-pkey="" source-value="保险顾问/财务规划师" result-key="0x6303" result-value="保险顾问 | 财务规划师" />
+  <node source-key="199" source-pkey="" source-value="其他" result-key="0x621a" result-value="其他" />
+  <node source-key="558" source-pkey="" source-value="通信标准化工程师" result-key="0x470a" result-value="通信标准化工程师" />
+  <node source-key="882" source-pkey="" source-value="房地产销售主管" result-key="0x5107" result-value="房地产销售主管" />
+  <node source-key="2025" source-pkey="" source-value="土建勘察" result-key="0x521b" result-value="土建勘察" />
+  <node source-key="2027" source-pkey="" source-value="橱柜设计师" result-key="0x521d" result-value="橱柜设计师" />
+  <node source-key="198" source-pkey="" source-value="储备经理人" result-key="0x6210" result-value="储备经理人" />
+  <node source-key="2104" source-pkey="" source-value="金融服务经理" result-key="0x6216" result-value="金融服务经理" />
+  <node source-key="239" source-pkey="" source-value="报关员" result-key="0x710a" result-value="报关员" />
+  <node source-key="909" source-pkey="" source-value="证券/投资客户代表" result-key="0x6206" result-value="证券 | 投资客户代表" />
+  <node source-key="745" source-pkey="" source-value="理货/分拣/打包" result-key="0x730d" result-value="理货 | 分拣 | 打包" />
+  <node source-key="2170" source-pkey="" source-value="水运/陆运/空运销售" result-key="0x731c" result-value="水运 | 陆运 | 空运销售" />
+  <node source-key="072" source-pkey="" source-value="工艺/制程工程师" result-key="0x810b" result-value="工艺 | 制程工程师" />
+  <node source-key="401" source-pkey="" source-value="电子/电器设备工程师" result-key="0x8215" result-value="电子 | 电器设备工程师" />
+  <node source-key="594" source-pkey="" source-value="公交/地铁乘务" result-key="0x7205" result-value="公交 | 地铁乘务" />
+  <node source-key="475" source-pkey="" source-value="汽车机械工程师" result-key="0x8305" result-value="汽车机械工程师" />
+  <node source-key="479" source-pkey="" source-value="汽车零配件销售" result-key="0x8403" result-value="汽车零配件销售" />
+  <node source-key="502" source-pkey="" source-value="化工研发工程师" result-key="0x8902" result-value="化工研发工程师" />
+  <node source-key="371" source-pkey="" source-value="化学制剂研发" result-key="0x8906" result-value="化学制剂研发" />
+  <node source-key="728" source-pkey="" source-value="汽车维修/保养" result-key="0x8405" result-value="汽车维修 | 保养" />
+  <node source-key="318" source-pkey="" source-value="无线电工程师" result-key="0x820c" result-value="无线电工程师" />
+  <node source-key="682" source-pkey="" source-value="线路结构设计" result-key="0x821b" result-value="线路结构设计" />
+  <node source-key="093" source-pkey="" source-value="机械设计师" result-key="0x8506" result-value="机械设计师" />
+  <node source-key="2186" source-pkey="" source-value="产品策划工程师" result-key="0x851c" result-value="产品策划工程师" />
+  <node source-key="2204" source-pkey="" source-value="工装工程师" result-key="0x852d" result-value="工装工程师" />
+  <node source-key="183" source-pkey="" source-value="发行管理" result-key="0x9114" result-value="发行管理" />
+  <node source-key="2161" source-pkey="" source-value="物流销售" result-key="0x7313" result-value="物流销售" />
+  <node source-key="306" source-pkey="" source-value="其他" result-key="0xc404" result-value="其他" />
+  <node source-key="894" source-pkey="" source-value="数据分析师" result-key="0xa106" result-value="数据分析师" />
+  <node source-key="783" source-pkey="" source-value="咨询项目管理" result-key="0xa109" result-value="咨询项目管理" />
+  <node source-key="625" source-pkey="" source-value="高中教师" result-key="0xa204" result-value="高中教师" />
+  <node source-key="303" source-pkey="" source-value="其他" result-key="0xd304" result-value="其他" />
+  <node source-key="800" source-pkey="" source-value="签证业务办理" result-key="0xb206" result-value="签证业务办理" />
+  <node source-key="2173" source-pkey="" source-value="水族馆表演演员" result-key="0xb209" result-value="水族馆表演演员" />
+  <node source-key="840" source-pkey="" source-value="其他" result-key="0x4510" result-value="其他" />
+  <node source-key="300200" source-pkey="" source-value="其他" result-key="0xd400" result-value="其他" />
+  <node source-key="811" source-pkey="" source-value="珠宝/收藏品鉴定" result-key="0x6405" result-value="珠宝 | 收藏品鉴定" />
+  <node source-key="2088" source-pkey="" source-value="户外/游戏教练" result-key="0xb40c" result-value="户外 | 游戏教练" />
+  <node source-key="834" source-pkey="" source-value="证券/投资项目管理" result-key="0x310b" result-value="证券 | 投资项目管理" />
+  <node source-key="4040000" source-pkey="" source-value="旅游/度假/出入境服务" result-key="0xb200" result-value="旅游 | 度假 | 出入境服务" />
+  <node source-key="27" source-pkey="" source-value="生产|制造" result-key="0x8000" result-value="生产 | 制造" />
+  <node source-key="927" source-pkey="" source-value="销售业务跟单" result-key="0x110b" result-value="销售业务跟单" />
+  <node source-key="2150" source-pkey="" source-value="招商经理" result-key="0x110e" result-value="招商经理" />
+  <node source-key="2151" source-pkey="" source-value="招商主管" result-key="0x110f" result-value="招商主管" />
+  <node source-key="548" source-pkey="" source-value="客户主管" result-key="0x1206" result-value="客户主管" />
+  <node source-key="600" source-pkey="" source-value="市场经理" result-key="0x1502" result-value="市场经理" />
+  <node source-key="604" source-pkey="" source-value="市场主管" result-key="0x1503" result-value="市场主管" />
+  <node source-key="848" source-pkey="" source-value="产品主管" result-key="0x150b" result-value="产品主管" />
+  <node source-key="851" source-pkey="" source-value="市场文案策划" result-key="0x1512" result-value="市场文案策划" />
+  <node source-key="850" source-pkey="" source-value="促销员" result-key="0x1516" result-value="促销员" />
+  <node source-key="2174" source-pkey="" source-value="品牌策划" result-key="0x151c" result-value="品牌策划" />
+  <node source-key="2140" source-pkey="" source-value="转播工程师" result-key="0x912b" result-value="转播工程师" />
+  <node source-key="2118" source-pkey="" source-value="园林景观设计师" result-key="0x9216" result-value="园林景观设计师" />
+  <node source-key="491" source-pkey="" source-value="搬运工" result-key="0x7310" result-value="搬运工" />
+  <node source-key="2038" source-pkey="" source-value="IOS开发工程师" result-key="0x411a" result-value="IOS开发工程师" />
+  <node source-key="2042" source-pkey="" source-value="C语言开发工程师" result-key="0x411e" result-value="C语言开发工程师" />
+  <node source-key="100" source-pkey="" source-value="室内装潢设计" result-key="0x520d" result-value="室内装潢设计" />
+  <node source-key="2023" source-pkey="" source-value="软装设计师" result-key="0x5219" result-value="软装设计师" />
+  <node source-key="2026" source-pkey="" source-value="硬装设计师" result-key="0x521c" result-value="硬装设计师" />
+  <node source-key="2182" source-pkey="" source-value="活动执行" result-key="0x1609" result-value="活动执行" />
+  <node source-key="509" source-pkey="" source-value="广告文案策划" result-key="0x1704" result-value="广告文案策划" />
+  <node source-key="508" source-pkey="" source-value="广告/会展业务拓展" result-key="0x170b" result-value="广告 | 会展业务拓展" />
+  <node source-key="815" source-pkey="" source-value="项目专员/助理" result-key="0x3103" result-value="项目专员 | 助理" />
+  <node source-key="819" source-pkey="" source-value="IT项目执行/协调人员" result-key="0x3107" result-value="IT项目执行 | 协调人员" />
+  <node source-key="824" source-pkey="" source-value="电子/电器项目管理" result-key="0x3110" result-value="电子 | 电器项目管理" />
+  <node source-key="833" source-pkey="" source-value="能源/矿产项目管理" result-key="0x3116" result-value="能源 | 矿产项目管理" />
+  <node source-key="067" source-pkey="" source-value="化验/检验" result-key="0x3205" result-value="化验 | 检验" />
+  <node source-key="844" source-pkey="" source-value="医药销售经理/主管" result-key="0x120e" result-value="医药销售经理 | 主管" />
+  <node source-key="311" source-pkey="" source-value="业务拓展经理/主管" result-key="0x1508" result-value="业务拓展经理 | 主管" />
+  <node source-key="748" source-pkey="" source-value="促销主管/督导" result-key="0x1515" result-value="促销主管 | 督导" />
+  <node source-key="866" source-pkey="" source-value="SEO/SEM" result-key="0x1518" result-value="SEO | SEM" />
+  <node source-key="128" source-pkey="" source-value="猎头顾问/助理" result-key="0x2210" result-value="猎头顾问 | 助理" />
+  <node source-key="137" source-pkey="" source-value="CTO/CIO" result-key="0x3304" result-value="CTO | CIO" />
+  <node source-key="141" source-pkey="" source-value="分公司/代表处负责人" result-key="0x3306" result-value="分公司 | 代表处负责人" />
+  <node source-key="907" source-pkey="" source-value="行长/副行长" result-key="0x330a" result-value="行长 | 副行长" />
+  <node source-key="911" source-pkey="" source-value="工厂厂长/副厂长" result-key="0x330b" result-value="工厂厂长 | 副厂长" />
+  <node source-key="912" source-pkey="" source-value="校长/副校长" result-key="0x330c" result-value="校长 | 副校长" />
+  <node source-key="399" source-pkey="" source-value="首席财务官CFO" result-key="0x2101" result-value="首席财务官CFO" />
+  <node source-key="2144" source-pkey="" source-value="党工团干事" result-key="0x2309" result-value="党工团干事" />
+  <node source-key="2146" source-pkey="" source-value="内勤人员" result-key="0x230b" result-value="内勤人员" />
+  <node source-key="817" source-pkey="" source-value="IT项目总监" result-key="0x3105" result-value="IT项目总监" />
+  <node source-key="830" source-pkey="" source-value="房地产项目管理" result-key="0x310a" result-value="房地产项目管理" />
+  <node source-key="823" source-pkey="" source-value="汽车工程项目管理" result-key="0x310f" result-value="汽车工程项目管理" />
+  <node source-key="827" source-pkey="" source-value="化工项目管理" result-key="0x3113" result-value="化工项目管理" />
+  <node source-key="832" source-pkey="" source-value="咨询项目管理" result-key="0x3115" result-value="咨询项目管理" />
+  <node source-key="2080" source-pkey="" source-value="项目招投标" result-key="0x3118" result-value="项目招投标" />
+  <node source-key="384" source-pkey="" source-value="安全消防" result-key="0x320b" result-value="安全消防" />
+  <node source-key="835" source-pkey="" source-value="其他" result-key="0x3119" result-value="其他" />
+  <node source-key="822" source-pkey="" source-value="生产项目工程师" result-key="0x310e" result-value="生产项目工程师" />
+  <node source-key="527" source-pkey="" source-value="成本会计" result-key="0x2112" result-value="成本会计" />
+  <node source-key="049" source-pkey="" source-value="IT质量管理工程师" result-key="0x4402" result-value="IT质量管理工程师" />
+  <node source-key="2200" source-pkey="" source-value="无损检测工程师" result-key="0x852a" result-value="无损检测工程师" />
+</nodes>

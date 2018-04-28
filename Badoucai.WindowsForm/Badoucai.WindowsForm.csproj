@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\FiddlerCore.1.0.0-beta\build\FiddlerCore.props" Condition="Exists('..\packages\FiddlerCore.1.0.0-beta\build\FiddlerCore.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1BFA0B38-8853-498B-B9CF-AA02A8F79829}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Badoucai.WindowsForm</RootNamespace>
+    <AssemblyName>Badoucai.WindowsForm</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C2F79ACDEA443E12A8EF01AD7EBDF3892AF03B7F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Badoucai.WindowsForm_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aliyun.OSS, Version=2.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aliyun.OSS.SDK.2.5.3\lib\Aliyun.OSS.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Badoucai.Formatter.Template, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Badoucai.Formatter.Template.dll</HintPath>
+    </Reference>
+    <Reference Include="Badoucai.HTTP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Badoucai.HTTP.dll</HintPath>
+    </Reference>
+    <Reference Include="Badoucai.Serialization.Template, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Badoucai.Serialization.Template.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FiddlerCore4">
+      <HintPath>..\packages\FiddlerCore for .NET Standard Beta\FiddlerCore4.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.6.8.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.6.8\lib\Net45\HtmlAgilityPack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Mono.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.2.2.7\lib\net45\Mono.Security.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.10\lib\net45\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.Entity.6.9.9\lib\net45\MySql.Data.Entity.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Npgsql, Version=2.2.7.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.2.2.7\lib\net45\Npgsql.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Npgsql.EntityFramework, Version=2.2.7.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.EntityFramework.2.2.7\lib\net45\Npgsql.EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Extended, Version=3.4.16.616, Culture=neutral, PublicKeyToken=675fb48d7a2b2d96, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\System.Extended.3.4.16.616\lib\net40\System.Extended.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebDriver, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.3.8.0\lib\net45\WebDriver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Z.EntityFramework.Extensions, Version=3.14.5.0, Culture=neutral, PublicKeyToken=59b66d028979105b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Z.EntityFramework.Extensions.3.14.5\lib\net45\Z.EntityFramework.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="51Job\MatchLocalResumeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="51Job\MatchLocalResumeForm.Designer.cs">
+      <DependentUpon>MatchLocalResumeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\BatchCopyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\BatchCopyForm.Designer.cs">
+      <DependentUpon>BatchCopyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\MailBulkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\MailBulkForm.Designer.cs">
+      <DependentUpon>MailBulkForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ProgramCollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\ProgramCollectionForm.Designer.cs">
+      <DependentUpon>ProgramCollectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\SpiderDodiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\SpiderDodiForm.Designer.cs">
+      <DependentUpon>SpiderDodiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\OldCheckCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\OldCheckCodeForm.Designer.cs">
+      <DependentUpon>OldCheckCodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\CheckCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\CheckCodeForm.Designer.cs">
+      <DependentUpon>CheckCodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\CheckCodeSchedulingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\CheckCodeSchedulingForm.Designer.cs">
+      <DependentUpon>CheckCodeSchedulingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\CreateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\CreateUserForm.Designer.cs">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\DownloadResumeByOldSystemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\DownloadResumeByOldSystemForm.Designer.cs">
+      <DependentUpon>DownloadResumeByOldSystemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\NewSystemLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\NewSystemLoginForm.Designer.cs">
+      <DependentUpon>NewSystemLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\OldSystemLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\OldSystemLoginForm.Designer.cs">
+      <DependentUpon>OldSystemLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\RefreshJobForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\RefreshJobForm.Designer.cs">
+      <DependentUpon>RefreshJobForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\SearchResumeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\SearchResumeForm.Designer.cs">
+      <DependentUpon>SearchResumeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\TryLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\TryLoginForm.Designer.cs">
+      <DependentUpon>TryLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zhaopin\WatchOldResumeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zhaopin\WatchOldResumeForm.Designer.cs">
+      <DependentUpon>WatchOldResumeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="51Job\MatchLocalResumeForm.resx">
+      <DependentUpon>MatchLocalResumeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tools\BatchCopyForm.resx">
+      <DependentUpon>BatchCopyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\MailBulkForm.resx">
+      <DependentUpon>MailBulkForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\ProgramCollectionForm.resx">
+      <DependentUpon>ProgramCollectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\SpiderDodiForm.resx">
+      <DependentUpon>SpiderDodiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\OldCheckCodeForm.resx">
+      <DependentUpon>OldCheckCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\CheckCodeForm.resx">
+      <DependentUpon>CheckCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\CheckCodeSchedulingForm.resx">
+      <DependentUpon>CheckCodeSchedulingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\CreateUserForm.resx">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\DownloadResumeByOldSystemForm.resx">
+      <DependentUpon>DownloadResumeByOldSystemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\NewSystemLoginForm.resx">
+      <DependentUpon>NewSystemLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\OldSystemLoginForm.resx">
+      <DependentUpon>OldSystemLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\RefreshJobForm.resx">
+      <DependentUpon>RefreshJobForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\SearchResumeForm.resx">
+      <DependentUpon>SearchResumeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\TryLoginForm.resx">
+      <DependentUpon>TryLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zhaopin\WatchOldResumeForm.resx">
+      <DependentUpon>WatchOldResumeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App_Data\Zhaopin\ResumeTemplates\Resume_v1.json" />
+    <None Include="Badoucai.WindowsForm_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Badoucai.Business\Badoucai.Business.csproj">
+      <Project>{4f0ed06b-f3b9-476c-b0b2-7f940fe58cf7}</Project>
+      <Name>Badoucai.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Badoucai.EntityFramework\Badoucai.EntityFramework.csproj">
+      <Project>{2246af40-bb0c-4756-a3fc-5cd4dfda919c}</Project>
+      <Name>Badoucai.EntityFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Badoucai.Library\Badoucai.Library.csproj">
+      <Project>{370a3e05-d431-4154-bb8f-591b67c87531}</Project>
+      <Name>Badoucai.Library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\FiddlerCore.1.0.0-beta\build\FiddlerCore.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\FiddlerCore.1.0.0-beta\build\FiddlerCore.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

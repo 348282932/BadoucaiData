@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\5.1.7\bin.Release\PostSharp.Compiler.Engine.dll
+D:\BadoucaiData\Badoucai.Data\Badoucai.WebApi\obj\Debug\PostSharp\postsharp.config

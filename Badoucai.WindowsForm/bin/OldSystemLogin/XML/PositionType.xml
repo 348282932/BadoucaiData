@@ -1,0 +1,6 @@
+﻿<nodes>
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="2" source-value="全职" result-key="F" result-value="全职"></node>
+	<node source-key="1" source-value="兼职" result-key="P" result-value="兼职"></node>
+	<node source-key="4" source-value="实习" result-key="I" result-value="实习"></node>
+</nodes>

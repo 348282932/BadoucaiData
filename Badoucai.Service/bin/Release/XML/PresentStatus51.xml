@@ -1,0 +1,6 @@
+﻿<nodes>
+	<node source-key="" source-value="" result-key="*" result-value="默认"></node>
+	<node source-key="5" source-value="目前正在找工作" result-key="A" result-value="正在找工作"></node>
+	<node source-key="4" source-value="观望有好机会会考虑" result-key="B" result-value="考虑新环境"></node>
+	<node source-key="3" source-value="目前暂无跳槽打算" result-key="C" result-value="不想换工作"></node>
+</nodes>
